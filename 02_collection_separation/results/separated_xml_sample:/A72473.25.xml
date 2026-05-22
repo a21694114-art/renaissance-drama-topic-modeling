@@ -1,0 +1,2473 @@
+
+                     <div type="play">
+                        <pb n="121" facs="tcp:12103:354"/>
+                        <head>THE SAD SHEPHERD; OR, A TALE OF <hi>Robin-hood.</hi>
+                        </head>
+                        <div n="1" type="act">
+                           <head>ACT I.</head>
+                           <div n="1" type="scene">
+                              <head>SCENE I.</head>
+                              <head type="sub">
+                                 <hi>Aeglamour.</hi>
+                              </head>
+                              <sp>
+                                 <l>HEre! ſhe was wont to goe! and here! and here!</l>
+                                 <l>Juſt where thoſe Daiſies, Pincks, and Violets grow:</l>
+                                 <l>The world may find the Spring by following her;</l>
+                                 <l>For other print her aerie ſteps neere left:</l>
+                                 <l>Her treading would not bend a blade of graſſe!</l>
+                                 <l>Or ſhake the downie <hi>Blow-ball</hi> from his ſtalke!</l>
+                                 <l>But like the ſoft <hi>Weſt-wind,</hi> ſhe ſhot along,</l>
+                                 <l>And where ſhe went, the Flowers tooke thickeſt root,</l>
+                                 <l>As ſhe had ſow'd 'hem with her odorous foot.</l>
+                              </sp>
+                           </div>
+                           <div n="2" type="scene">
+                              <head>ACT I. SCENE II.</head>
+                              <head type="sub">
+                                 <hi>Marian. Tuck. Iohn. Wood-men,</hi> &amp;c.</head>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Know you, or can you gueſſe, my merry men,</l>
+                                 <l>What 'tis that keepes your Maſter <hi>Robin-hood</hi>
+                                 </l>
+                                 <l>So long both from his <hi>Marian,</hi> and the Wood?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Tuc.</speaker>
+                                 <l>Forſooth, Madam, hee will be here by noone,</l>
+                                 <l>And prayes it of your bounty as a boone,</l>
+                                 <l>That you by then have kild him Veniſon ſome,</l>
+                                 <l>To feaſt his jolly friends, who hether come</l>
+                                 <l>In threaves to frolick with him, and make cheare;</l>
+                                 <l>Here's <hi>Little Iohn</hi> hath harbord you a Deere,</l>
+                                 <l>I ſee by his tackling.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Io.</speaker>
+                                 <l>And a Hart of ten,</l>
+                                 <l>I trow hee be, Madam, or blame your men:</l>
+                                 <l>For by his Slot, his Entries, and his Port,</l>
+                                 <l>His Frayings, Fewmets, he doth promiſe ſport,</l>
+                                 <l>And ſtanding 'fore the Dogs; hee beares a head,</l>
+                                 <l>Large, and well beam'd: with all rights ſomm'd, and ſpred.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Let's rowſe him quickly, and lay on the Hounds.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Io.</speaker>
+                                 <l>
+                                    <hi>Scathlock</hi> is ready with them on the grounds;</l>
+                                 <l>
+                                    <pb facs="tcp:12103:355"/>So is his brother <hi>Scarlet:</hi> now they'ave found</l>
+                                 <l>His Layre, they have him ſure within the pound.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mor.</speaker>
+                                 <l>Away then, when my <hi>Robin</hi> bids a Feaſt,</l>
+                                 <l>'Twere ſinne in <hi>Marian</hi> to defraud a Gueſt.</l>
+                              </sp>
+                           </div>
+                           <div n="3" type="scene">
+                              <head>ACT. I. SCENE III.</head>
+                              <head type="sub">
+                                 <hi>Tuck. George a Greene. Much. Aeglamour.</hi>
+                              </head>
+                              <sp>
+                                 <speaker>Tuc.</speaker>
+                                 <l>And I, the Chaplaine, here am left to be</l>
+                                 <l>Steward to day, and charge you all in fee,</l>
+                                 <l>To d'on your Liveries; ſee the Bowerdreſt;</l>
+                                 <l>And fit the fine deviſes for the Feaſt:</l>
+                                 <l>You <hi>George</hi> muſt care to make the Baldrick trim,</l>
+                                 <l>And Garland that muſt crowne, or her, or him;</l>
+                                 <l>Whoſe Flock this yeare, hath brought the earlieſt Lambe!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Geo.</speaker>
+                                 <l>Good Father <hi>Tuck,</hi> at your Commands I am</l>
+                                 <l>To cut the Table out O the greene ſword,</l>
+                                 <l>Or any other ſervice for my Lord;</l>
+                                 <l>To carve the Gueſts large ſeats; and theſe laid in</l>
+                                 <l>With turfe (as ſoft and ſmooth as the Moles skin:)</l>
+                                 <l>And hang the bulled Noſe-gaies 'bove their heads,</l>
+                                 <l>The Pipers banck, whereon to ſit and play;</l>
+                                 <l>And a faire Dyall to meete out the day.</l>
+                                 <l>Our Maſters Feaſt ſhall want no juſt delights:</l>
+                                 <l>His entertainments muſt have all the rites.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Muc.</speaker>
+                                 <l>I, and all choiſe that plenty can ſend in;</l>
+                                 <l>Bread, Wine, Acates, Fowle, Feather, Fiſh, or Fin,</l>
+                                 <l>
+                                    <stage place="margin">
+                                       <hi>Aegl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                             <desc>•</desc>
+                                          </gap>mour</hi> fals in with them.</stage> For which my Fathers Nets have ſwept the <hi>Trent.</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Aeg.</speaker>
+                                 <l>And ha' you found her?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mu.</speaker>
+                                 <l>Whom?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Aeg.</speaker>
+                                 <l>My drowned Love.</l>
+                                 <l>
+                                    <hi>Earine!</hi> the ſweet <hi>Earine!</hi>
+                                 </l>
+                                 <l>The bright, and beautifull <hi>Earine!</hi>
+                                 </l>
+                                 <l>Have you not heard of my <hi>Earine?</hi>
+                                 </l>
+                                 <l>Juſt by your Fathers Mills (I thinke I am right)</l>
+                                 <l>Are not you <hi>Much</hi> the Millers ſonne?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mu.</speaker>
+                                 <l>I am.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Aeg.</speaker>
+                                 <l>And Baily to brave <hi>Robin-hood?</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mu.</speaker>
+                                 <l>The ſame.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Aeg.</speaker>
+                                 <l>Cloſe by your Fathers Mills, <hi>Earine!</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Earine</hi> was drown'd! O my <hi>Earine!</hi>
+                                 </l>
+                                 <l>(Old <hi>Maudlin</hi> tells me ſo, and <hi>Douce</hi> her Daughter)</l>
+                                 <l>Ha' you ſwept the River ſay you? and not found her?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Muc.</speaker>
+                                 <l>For Fowle, and Fiſh wee have.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Aeg.</speaker>
+                                 <l>O not for her?</l>
+                                 <l>You'are goodly friends! right charitable men!</l>
+                                 <l>Nay, keepe your way, and leave me: make your toyes,</l>
+                                 <l>Your tales, your poeſies, that you talk'd of; all</l>
+                                 <l>Your entertainments: you not injure me:</l>
+                                 <l>Onely if I may enjoy my <hi>Cipreſſe</hi> wreath!</l>
+                                 <l>And you will let me weepe! ('tis all I aske;)</l>
+                                 <l>Till I be turn'd to water, as was ſhe!</l>
+                                 <l>And troth what leſſe ſuit can you grant a man?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Tuck.</speaker>
+                                 <l>His Phantaſie is hurt, let us now leave him:</l>
+                                 <l>
+                                    <pb n="133" facs="tcp:12103:355"/>The wound is yet too freſh, to admit ſearching.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Aeg.</speaker>
+                                 <l>Searching? where ſhould I ſearch? or on what track?</l>
+                                 <l>Can my ſlow drop of teares, or this darke ſhade</l>
+                                 <l>About my browes, enough deſcribe her loſſe!</l>
+                                 <l>
+                                    <hi>Earine,</hi> O my <hi>Earine's</hi> loſſe!</l>
+                                 <l>No, no, no, no; this heart will breake firſt.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Geo.</speaker>
+                                 <l>How will this ſad diſaſter ſtrike the eares</l>
+                                 <l>Of bounteous <hi>Robin-hood,</hi> our gentle Maſter?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mu.</speaker>
+                                 <l>How will it marre his mirth, abate his feaſt;</l>
+                                 <l>And ſtrike a horror into every gueſt!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Aeg.</speaker>
+                                 <l>If I could knit whole clouds about my browes,</l>
+                                 <l>And weepe like <hi>Swithen,</hi> or thoſe watry ſignes,</l>
+                                 <l>The Kids that riſe then, and drowne all the Flocks</l>
+                                 <l>Of thoſe rich Shepherds, dwelling in this Vale;</l>
+                                 <l>Thoſe careleſſe Shepherds, that did let her drowne!</l>
+                                 <l>Then I did ſomething or could make old <hi>Trent</hi>
+                                 </l>
+                                 <l>Drunke with my ſorrow, to ſtart out in breaches</l>
+                                 <l>To drowne their Herds, their cattle, and their corne,</l>
+                                 <l>Breake downe their Mils, their Dams, ore-turne their weeres,</l>
+                                 <l>And ſee their houſes, and whole lively-hood</l>
+                                 <l>Wrought into water, with her, all were good:</l>
+                                 <l>I'ld kiſſe the torrent, and thoſe whirles of <hi>Trent,</hi>
+                                 </l>
+                                 <l>That ſuck'd her in, my ſweet <hi>Earine!</hi>
+                                 </l>
+                                 <l>When they have caſt their body on the ſhore,</l>
+                                 <l>And it comes up, as tainted as themſelves,</l>
+                                 <l>All pale and bloodleſſe, I will love it ſtill,</l>
+                                 <l>For all that they can doe, and make 'hem mad,</l>
+                                 <l>To ſee how I will hugge it in mine armes!</l>
+                                 <l>And hang upon the lookes, dwell on her eyes:</l>
+                                 <l>Feed round about her lips, and eate her kiſſes!</l>
+                                 <l>Suck of her drowned fleſh! and where's their malice?</l>
+                                 <l>Not all their envious ſouſing can change that:</l>
+                                 <l>But I will ſtudy ſome revenge paſt this!</l>
+                                 <l>I pray you give me leave, for I will ſtudy.</l>
+                                 <l>Though all the Bels, Pipes, Tabors, Timburines ring</l>
+                                 <l>That you can plant about me: I will ſtudy.</l>
+                              </sp>
+                           </div>
+                           <div n="4" type="scene">
+                              <head>ACT I. SCENE IIII.<hi rend="stage">To him.</hi>
+                              </head>
+                              <head type="sub">
+                                 <hi>Robin-hood. Clarion. Mellifleur. Lionel. Amie. Alken. Tuck. Servants,</hi> with muſick of all ſorts.</head>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Welcome bright <hi>Clarion,</hi> and ſweet <hi>Mellifleur,</hi>
+                                 </l>
+                                 <l>The courteous <hi>Lionel,</hi> faire <hi>Amie;</hi> all</l>
+                                 <l>My friends and neighbours, to the Jolly Bower</l>
+                                 <l>Of <hi>Robin-hood,</hi> and to the greene-wood Walkes:</l>
+                                 <l>Now that the ſhearing of your ſheepe is done,</l>
+                                 <l>And the waſh'd Flocks are lighted of their wooll,</l>
+                                 <l>The ſmoother Ewes are ready to receive.</l>
+                                 <l>
+                                    <pb n="134" facs="tcp:12103:356"/>The mounting Rams againe; and both doe feed,</l>
+                                 <l>As either promiſt to increaſe your breed</l>
+                                 <l>At eaning time; and bring you luſty twins.</l>
+                                 <l>Why ſhould, or you, or wee ſo much forget</l>
+                                 <l>The ſeaſon in our ſelves: as not to make</l>
+                                 <l>Vſe of our youth, and ſpirits, to awake</l>
+                                 <l>The nimble Horne-pipe, and the Timburine,</l>
+                                 <l>And mixe our Songs, and Dances in the Wood,</l>
+                                 <l>And each of us cut downe a Triumph-bough.</l>
+                                 <l>Such were the Rites, the youthfull <hi>Iune</hi> allow.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>They were, gay <hi>Robin,</hi> but the ſowrer ſort</l>
+                                 <l>Of Shepherds now diſclaime in all ſuch ſport:</l>
+                                 <l>And ſay, our Flocks the while, are poorely fed,</l>
+                                 <l>When with ſuch vanities the Swaines are led.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Tuc.</speaker>
+                                 <l>Would they, wiſe <hi>Clarion,</hi> were not hurried more</l>
+                                 <l>With Covetiſe and Rage, when to their ſtore</l>
+                                 <l>They adde the poore mans Eaneling, and dare ſell</l>
+                                 <l>Both Fleece, and Carkaſſe, not gi'ing him the Fell.</l>
+                                 <l>When to one Goat, they reach that prickly weed,</l>
+                                 <l>Which maketh all the reſt forbeare to feed;</l>
+                                 <l>Or ſtrew <hi>Tods</hi> haires, or with their tailes doe ſweepe</l>
+                                 <l>The dewy graſſe, to d'off the ſimpler ſheepe;</l>
+                                 <l>Or digge deepe pits, their Neighbours Neat to vexe,</l>
+                                 <l>To drowne the Calves, and crack the Heifers necks.</l>
+                                 <l>Or with pretence of chaſing thence the Brock,</l>
+                                 <l>Send in a curre to worrie the whole Flock.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lio.</speaker>
+                                 <l>O Friar, thoſe are faults that are not ſeene,</l>
+                                 <l>Ours open, and of worſt example beene.</l>
+                                 <l>They call ours, <hi>Pagan</hi> paſtimes, that infect</l>
+                                 <l>Our blood with eaſe, our youth with all neglect;</l>
+                                 <l>Our tongues with wantonneſſe, our thoughts with luſt,</l>
+                                 <l>And what they cenſure ill, all others muſt.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>I doe not know, what their ſharpe ſight may ſee</l>
+                                 <l>Of late, but I ſhould thinke it ſtill might be</l>
+                                 <l>(As 'twas) a happy age, when on the Plaines,</l>
+                                 <l>The Wood-men met the Damſells, and the Swaines</l>
+                                 <l>The Neat'ards, Plow-men, and the Pipers loud,</l>
+                                 <l>And each did dance, ſome to the Kit, or Crowd,</l>
+                                 <l>Some to the Bag-pipe, ſome the Tabret-mov'd,</l>
+                                 <l>And all did either love, or were belov'd.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lio.</speaker>
+                                 <l>The dextrous Shepherd then would try his ſling,</l>
+                                 <l>Then dart his Hooke at Dayſies, then would ſing.</l>
+                                 <l>Sometimes would wraſtle.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>I, and with a Laſſe:</l>
+                                 <l>And give her a new garment on the graſſe;</l>
+                                 <l>After a courſe at Barley-breake, or Baſe.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lio.</speaker>
+                                 <l>And all theſe deeds were ſeene without offence,</l>
+                                 <l>Or the leaſt hazard o' their innocence.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Thoſe charitable times had no miſtruſt.</l>
+                                 <l>Shepherds knew how to love, and not to luſt.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>Each minute that wee loſe thus, I confeſſe,</l>
+                                 <l>
+                                    <pb n="135" facs="tcp:12103:356"/>Deſerves a cenſure on us, more or leſſe;</l>
+                                 <l>But that a ſadder chance hath given allay,</l>
+                                 <l>Both to the Mirth, and Muſicke of this day.</l>
+                                 <l>Our faireſt Shepherdeſſe wee had of late,</l>
+                                 <l>Here upon <hi>Trent,</hi> is drown'd; for whom her mate</l>
+                                 <l>Young <hi>Aeglamour,</hi> a Swaine, who beſt could tread</l>
+                                 <l>Our countrey dances, and our games did lead,</l>
+                                 <l>Lives like the melancholy Turtle, drown'd</l>
+                                 <l>Deeper in woe, then ſhe in water: crown'd</l>
+                                 <l>With <hi>Yewgh</hi> and <hi>Cypreſſa,</hi> and will ſcarce admit</l>
+                                 <l>The Phyſick of our preſence to his fit.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lio.</speaker>
+                                 <l>Sometimes he ſits, and thinkes all day, then walkes,</l>
+                                 <l>Then thinkes againe; and ſighes, weeps, laughs, and talkes,</l>
+                                 <l>And, 'twixt his pleaſing frenzie, and ſad griefe,</l>
+                                 <l>Is ſo diſtracted; as no ſought reliefe,</l>
+                                 <l>By all our ſtudies can procure his peace.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>The paſſion finds in him that large increaſe,</l>
+                                 <l>As wee doubt hourely wee ſhall loſe him too.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>You ſhould not croſſe him then what ere you doe:</l>
+                                 <l>For Phant'ſie ſtop'd, will ſoone take fire, and burne</l>
+                                 <l>Into an anger, or to a Phrenſie turne.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>Nay, ſo wee are advis'd by <hi>Alhen</hi> here,</l>
+                                 <l>A good ſage Shepherd, who all-tho' he weare</l>
+                                 <l>An old worne hat and cloake, can tell us more</l>
+                                 <l>Then all the forward Fry, that boaſt their Lore.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lio.</speaker>
+                                 <l>See, yonder comes the brother of the Maid,</l>
+                                 <l>Young <hi>Karolin!</hi> how curious, and afraid</l>
+                                 <l>Hee is at once! willing to find him out,</l>
+                                 <l>And loath to'offend him.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alken.</speaker>
+                                 <l>Sure hee's here about.</l>
+                              </sp>
+                           </div>
+                           <div n="5" type="scene">
+                              <head>ACT I. SCENE V.</head>
+                              <head type="sub">
+                                 <hi>Robin-hood. Clarion. Mellifleur. Lionel. Amie. Alken. Karolin. Aeglamour,</hi> ſitting upon a banke by.</head>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>See where hee ſits.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Aeg.</speaker>
+                                 <l>It will be rare, rare, rare!</l>
+                                 <l>An exquiſite revenge: but peace, no words!</l>
+                                 <l>Not for the faireſt fleece of all the Flock;</l>
+                                 <l>If it be knowne afore, 'tis all worth nothing!</l>
+                                 <l>Ile carve it on the trees, and in the turfe,</l>
+                                 <l>On every greene ſworth, and in every path,</l>
+                                 <l>Juſt to the Margin of the cruell <hi>Trent;</hi>
+                                 </l>
+                                 <l>There will I knock the ſtory in the ground,</l>
+                                 <l>In ſmooth great peble, and moſſe fill it round,</l>
+                                 <l>Till the whole Countrey read how ſhe was drown'd,</l>
+                                 <l>And with the plenty of ſalt teares thereſhed,</l>
+                                 <l>Quite alter the complexion of the Spring.</l>
+                                 <l>Or I will get ſome old, old Grandam, thither,</l>
+                                 <l>Whoſe rigid foot but dip'd into the water,</l>
+                                 <l>Shall ſtrike that ſharpe and ſuddaine cold, throughout,</l>
+                                 <l>
+                                    <pb n="136" facs="tcp:12103:357"/>As it ſhall looſe all vertue; and thoſe Nimphs,</l>
+                                 <l>Thoſe treacherous Nimphs pull'd in <hi>Earine;</hi>
+                                 </l>
+                                 <l>Shall ſtand curl'd up, like Images of Ice;</l>
+                                 <l>And never thaw! marke, never! a ſharpe Juſtice:</l>
+                                 <l>Or ſtay, a better! when the yeares at hotteſt,</l>
+                                 <l>And that the <hi>Dog-ſtarre</hi> fomes, and the ſtreames boiles,</l>
+                                 <l>And curles, and workes, and ſwells ready to ſparkle:</l>
+                                 <l>To fling a fellow with a Fever in,</l>
+                                 <l>To ſet it all on fire, till it burne,</l>
+                                 <l>Blew as <hi>Scamander,</hi> 'fore the walls of <hi>Troy;</hi>
+                                 </l>
+                                 <l>When <hi>Vulcan</hi> leap'd in to him, to conſume him.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>A deepe hurt Phant'ſie.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Aeg.</speaker>
+                                 <l>Doe you not approve it?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Yes gentle <hi>Aeglamour,</hi> wee all approve,</l>
+                                 <l>And come to gratulate your juſt revenge:</l>
+                                 <l>Which ſince it is ſo perfect, we now hope,</l>
+                                 <l>You'l leave all care thereof, and mixe with us,</l>
+                                 <l>In all the profer'd ſolace of the Spring.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Aeg.</speaker>
+                                 <l>A Spring, now ſhe is dead: of what, of thornes?</l>
+                                 <l>Briars, and Brambles? Thiſtles? Burs, and Dorks?</l>
+                                 <l>Cold Hemlock? Yewgh? the Mandrake, or the Boxe?</l>
+                                 <l>Theſe may grow ſtill; but what can ſpring beſide?</l>
+                                 <l>Did not the whole Earth ſicken, when ſhe died?</l>
+                                 <l>As if there ſince did fall one drop of dew,</l>
+                                 <l>But what was wept for her! or any ſtalke</l>
+                                 <l>Did beare a Flower! or any branch a bloome;</l>
+                                 <l>After her wreath was made: In faith, in faith</l>
+                                 <l>You doe not faire, to put theſe things upon me.</l>
+                                 <l>Which can in no ſort be: <hi>Earine,</hi>
+                                 </l>
+                                 <l>Who had her very being, and her name,</l>
+                                 <l>With the firſt knots, or buddings of the Spring,</l>
+                                 <l>Borne with the Prim roſe, and the Violet,</l>
+                                 <l>Or earlieſt Roſes blowne: when <hi>Cupid</hi> ſmil'd,</l>
+                                 <l>And <hi>Venus</hi> led the <hi>Graces</hi> out to dance,</l>
+                                 <l>And all the Flowers, and Sweets in <hi>Natures</hi> lap,</l>
+                                 <l>Leap'd out and made their ſolemne Conjuration,</l>
+                                 <l>To laſt, but while ſhee liv'd: Doe not I know,</l>
+                                 <l>How the Vale wither'd the ſame Day? How <hi>Dove,</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Deane, Eye,</hi> and <hi>Erwaſh, Idell, Snite,</hi> and <hi>Soare,</hi>
+                                 </l>
+                                 <l>Each broke his Vrne, and twenty waters more,</l>
+                                 <l>That ſwell'd proud <hi>Trent,</hi> ſhrunke themſelves dry; that ſince,</l>
+                                 <l>No Sun, or Moone, or other cheerfull Starre</l>
+                                 <l>Look'd out of heaven! but all the Cope was darke,</l>
+                                 <l>As it were hung ſo for her Exequies!</l>
+                                 <l>And not a voice or ſound, to ring her knell:</l>
+                                 <l>But of that diſmall paire, the ſcritching Owle;</l>
+                                 <l>And buzzing Hornet! harke, harke, harke the foule</l>
+                                 <l>Bird! how ſhee flutters with her wicker wings!</l>
+                                 <l>Peace you ſhall heare her ſcritch.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>Good <hi>Karolin</hi> ſing,</l>
+                                 <l>Helpe to divert this Phant'ſie.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Kar.</speaker>
+                                 <l>All I can.</l>
+                                 <q>
+                                    <lg>
+                                       <pb n="137" facs="tcp:12103:357"/>
+                                       <l>Though I am young, and cannot tell,<stage place="margin">The Song. Which while <hi>Karolin</hi> ſings, <hi>Aegl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                                   <desc>•</desc>
+                                                </gap>mou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                                   <desc>•</desc>
+                                                </gap>
+                                             </hi> reades</stage>
+                                       </l>
+                                       <l>Either what Death, or Love is well,</l>
+                                       <l>Yet I have heard, they both beare darts,</l>
+                                       <l>And both doe ayme at humane hearts:</l>
+                                       <l>And then againe, I have beene told</l>
+                                       <l>Love wounds with heart, as Death with cold;</l>
+                                       <l>So that I feare, they doe but bring</l>
+                                       <l>Extreames to touch, and meane one thing.</l>
+                                    </lg>
+                                    <lg>
+                                       <l>As in a ruine, we it call</l>
+                                       <l>One thing to be blowne up, or fall;</l>
+                                       <l>Or to our end, like way may have,</l>
+                                       <l>By a flaſh of lightning, or a wave:</l>
+                                       <l>So Loves inflamed ſhaft, or brand,</l>
+                                       <l>May kill as ſoone as Deaths cold hand;</l>
+                                       <l>Except Loves fires the vertue have</l>
+                                       <l>To fright the froſt out of the grave.</l>
+                                    </lg>
+                                 </q>
+                              </sp>
+                              <sp>
+                                 <speaker>Aeg.</speaker>
+                                 <l>Doe you thinke ſo? are you in that good hereſie?</l>
+                                 <l>I meane opinion? If you be, ſay nothing:</l>
+                                 <l>I'll ſtudy it, as a new Philoſophy,</l>
+                                 <l>But by my ſelfe alone: Now you ſhall leave me I</l>
+                                 <l>Some of theſe Nimphs, here will reward you; this</l>
+                                 <l>This pretty Maid, although but with a kiſſe,<stage place="margin">Hee forces <hi>Amie</hi> to kiſſe him.</stage>
+                                 </l>
+                                 <l>Liv'd my <hi>Earine,</hi> you ſhould have twenty:</l>
+                                 <l>For every line here, one I would allow 'hem</l>
+                                 <l>From mine owne ſtore, the treaſure I had in her:</l>
+                                 <l>Now I am poore as you.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Kar.</speaker>
+                                 <l>And I a wretch!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>Yet keepe an eye upon him, <hi>Karoline.</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mel.</speaker>
+                                 <l>Alas that ever ſuch a generous ſpirit,<stage place="margin">
+                                       <hi>Aeglamour</hi> goes out, and <hi>Karolin</hi> fol<g ref="char:EOLhyphen"/>lowes him.</stage>
+                                 </l>
+                                 <l>As <hi>Aeglamours,</hi> ſhould ſinke by ſuch a loſſe.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>The trueſt Lovers are leaſt fortunate,</l>
+                                 <l>Lookes all their Lives, and Legends; what they call</l>
+                                 <l>The Lovers Scriptures: <hi>Heliodores,</hi> or <hi>Tatij!</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Longi! Euſtathij! Prodomi!</hi> you'l find it!</l>
+                                 <l>What thinke you Father?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>I have knowne ſome few,</l>
+                                 <l>And read of more; wh'have had their doſe, and deepe,</l>
+                                 <l>Of theſe ſharpe bitter-ſweets.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lio.</speaker>
+                                 <l>But what is this</l>
+                                 <l>To jolly <hi>Robin?</hi> who the Story is,</l>
+                                 <l>Of all beatitude in Love?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>And told</l>
+                                 <l>Here every day, with wonder on the world.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lio.</speaker>
+                                 <l>And with fames voice.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>Save that ſome folke delight</l>
+                                 <l>To blend all good of others, with ſome ſpight.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>Hee, and his <hi>Marian,</hi> are the Summe and Talke</l>
+                                 <l>Of all, that breath here in the Greene-wood Walke.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mel.</speaker>
+                                 <l>Or <hi>Be'voir</hi> Vale?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Kar.</speaker>
+                                 <l>The Turtles of the Wood.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>The billing Paire.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>And ſo are underſtood</l>
+                                 <l>For ſimple loves, and ſampled lives beſide.</l>
+                              </sp>
+                              <sp>
+                                 <pb n="138" facs="tcp:12103:358"/>
+                                 <speaker>Mel.</speaker>
+                                 <l>Faith, ſo much vertue ſhould not be envi'd.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>Better be ſo, then pittied <hi>Mellifleur!</hi>
+                                 </l>
+                                 <l>For' gainſt all envy, vertue is a cure;</l>
+                                 <l>But wretched pitty ever cals on ſcornes.</l>
+                                 <l>The Deeres brought home: I heare it by their hornes.</l>
+                              </sp>
+                           </div>
+                           <div n="6" type="scene">
+                              <head>ACT I. SCENE VI.</head>
+                              <head type="sub">To <hi>Robin,</hi> &amp;c. <hi>Marian. Iohn. Scarlet. Scathlock.</hi>
+                              </head>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>My <hi>Marian,</hi> and my Miſtris!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>My lov'd <hi>Robin!</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mel.</speaker>
+                                 <l>The Moones at full, the happy paire are met!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>How hath this morning paid me, for my riſing!</l>
+                                 <l>Firſt, with my ſports; but moſt with meeting you!</l>
+                                 <l>I did not halfe ſo ſo well reward my hounds,</l>
+                                 <l>As ſhe hath me to day: although I gave them</l>
+                                 <l>All the ſweet morſels, call'd Tongue, Eares, and Dowcets!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>What? and the inch-pin?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Yes.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Your ſports then pleas'd you?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>You are a wanton.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>One I doe confeſſe</l>
+                                 <l>I wanted till you came, but now I have you,</l>
+                                 <l>Ile grow to your embraces, till two ſoules</l>
+                                 <l>Diſtilled into kiſſes, through our lips</l>
+                                 <l>Doe make one ſpirit of love.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>O <hi>Robin! Robin!</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Breathe, breathe a while, what ſayes my gentle <hi>Marian?</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Could you ſo long be abſent?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>What a weeke?</l>
+                                 <l>Was that ſo long?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>How long are Lovers weekes!</l>
+                                 <l>Doe you think <hi>Robin,</hi> when they are aſunder?</l>
+                                 <l>Are they not Priſ'ners yeares?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>To ſome they ſeem ſo;</l>
+                                 <l>But being met againe, they'are Schoole-boyes houres.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>That have got leave to play, and ſo wee uſe them.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Had you good ſport i' your chaſe to day?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Io.</speaker>
+                                 <l>O prime!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>A luſty Stagge?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>And hunted yee at force?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>In a full cry.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Io.</speaker>
+                                 <l>And never hunted change!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>You had ſtanch Hounds then?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Old and ſure, I love</l>
+                                 <l>No young raſh dogs, no more then changing friends.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>What relayes ſet you?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Io.</speaker>
+                                 <l>None at all; we laid not</l>
+                                 <l>In one freſh dog.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Hee ſtood not long then?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Sca.</speaker>
+                                 <l>Yes,</l>
+                                 <l>Five houres and more. A great, large Deere!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>What head?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Ioh.</speaker>
+                                 <l>Forked! A Hart of ten.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Hee is good Veniſon,</l>
+                                 <l>According to the ſeaſon i' the blood,</l>
+                                 <l>I'll promiſe all your friends, for whom he fell.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Ioh.</speaker>
+                                 <l>But at his fall there hap't a chance.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Worth marke?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>I! what was that ſweet <hi>Marian</hi>
+                                    <stage n="*" place="margin">He kiſſes her.</stage>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>You'll not heare?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>I love theſe interruptions in a Story;<stage n="*" place="margin">He kiſſes her againe.</stage>
+                                 </l>
+                                 <l>They make it ſweeter.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>You doe know, as ſoone</l>
+                                 <l>As the Aſſay is taken.<stage n="*" place="margin">He kiſſes her againe.</stage>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>On my <hi>Marian.</hi>
+                                 </l>
+                                 <l>I did but take the Aſſay.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>You ſtop ones mouth,</l>
+                                 <l>And yet you bid 'hem ſpeake—when the Arbors made.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Puld downe, and paunch turn'd out.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Hee that undoes him;</l>
+                                 <l>Doth cleave the brisket-bone, upon the ſpoone</l>
+                                 <l>
+                                    <pb n="139" facs="tcp:12103:358"/>Of which, a little griſtle growes, you call it—</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>the Ravenſ-bone.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Now, ore head ſate a Raven!</l>
+                                 <l>On a ſere bough! a growne great Bird! and Hoarſe!</l>
+                                 <l>Who, all the while the Deere was breaking up,</l>
+                                 <l>So crok'd and cry'd for't, as all the huntſ-men,</l>
+                                 <l>(Eſpecially old <hi>Scathlocke</hi>) thought it ominous!</l>
+                                 <l>Swore it was Mother <hi>Maudlin;</hi> whom he met,</l>
+                                 <l>At the Day-dawne; juſt as hee rows'd the Deere,</l>
+                                 <l>Out of his Laire: but wee made ſhift to run him</l>
+                                 <l>Off his foure leggs, and ſunke him e're wee left.</l>
+                                 <l>Is the Deere come?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Scat.</speaker>
+                                 <l>Hee lies within ô the dreſſer!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Will you goe ſee him <hi>Mellifleur?</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mel.</speaker>
+                                 <l>I attend you.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Come <hi>Amie,</hi> you'll goe with us?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Am.</speaker>
+                                 <l>I am not well.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lio.</speaker>
+                                 <l>Shee's ſick o' the yong Shep'ard that be kiſt her.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Friend, cheare your friends up, wee will eate him merrily,</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>Saw you the Raven, Friend?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Scat.</speaker>
+                                 <l>I, qu'ha ſuld let me?</l>
+                                 <l>I ſuld be afraid ô you ſir ſuld I?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Clar.</speaker>
+                                 <l>Huntſ-man!</l>
+                                 <l>A Dram more of Civilitie would not hurt you?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Nay, you muſt give them all their rudeneſſes;</l>
+                                 <l>They are not elſe themſelves, without their language.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>And what do you thinke of her?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Scat.</speaker>
+                                 <l>As of a Witch.</l>
+                                 <l>They call her a Wiſe-woman, but I thinke her</l>
+                                 <l>An arrant Witch.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>And wherefore think you ſo?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Sca.</speaker>
+                                 <l>Becauſe, I ſaw her ſince, broiling the bone</l>
+                                 <l>Was caſt her at the Quarrie.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>Where ſaw you her?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Sca.</speaker>
+                                 <l>I' the Chimley nuik, within: ſhee's there, now.</l>
+                                 <stage>Rob. Marian<g ref="char:punc">▪</g>
+                                 </stage>
+                              </sp>
+                           </div>
+                           <div n="7" type="scene">
+                              <head>ACT I. SCENE VII.</head>
+                              <stage place="margin">To them</stage>
+                              <stage>Marian.</stage>
+                              <l>Your Hunt holds in his tale, ſtill; and tells more!</l>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>My Hunt? what tale?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>How! cloudie, <hi>Marian!</hi>
+                                 </l>
+                                 <l>What looke is this?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>A fit one, Sir, for you.<stage place="margin">To <hi>Scath<g ref="char:EOLhyphen"/>lock.</hi>
+                                    </stage>
+                                 </l>
+                                 <l>Hand off rude Ranger! Sirrah, get you in</l>
+                                 <l>And beare the Veniſon hence. It is too good</l>
+                                 <l>For theſe courſe ruſtick mouthes that cannot open,</l>
+                                 <l>Or ſpend a thanke for't. A ſtarv'd Muttons carkaſſe</l>
+                                 <l>Would better fit their palates. See it carried</l>
+                                 <l>To Mother <hi>Maudlins,</hi> whom you call the Witch, Sir.</l>
+                                 <l>Tell her I ſent it to make merrie with,</l>
+                                 <l>Shee'll turne us thanks at leaſt! why ſtand'ſt thou, Groome?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>I wonder he can move! that hee's not fix'd!</l>
+                                 <l>If that his feeling be the ſame with mine!</l>
+                                 <l>I dare not truſt the faith of mine owne ſenſes.</l>
+                                 <l>I feare mine eyes, and eares! this is not <hi>Marian!</hi>
+                                 </l>
+                                 <l>Nor am I <hi>Robin-hood!</hi> I pray you aske her!</l>
+                                 <l>Aske her good Shep'ards! aske her all for me;</l>
+                                 <l>Or rather aske yourſelves, if ſhee be ſhee;</l>
+                                 <l>Or I, be I.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Yes, and you are the ſpie:</l>
+                                 <l>
+                                    <pb n="140" facs="tcp:12103:359"/>And the ſpi'd Spie, that watch upon my walkes,</l>
+                                 <l>To informe what Deere I kill, or give away!</l>
+                                 <l>Where! when! to whom! but ſpie your worſt, good Spie!</l>
+                                 <l>I will diſpoſe of this where leaſt you like!</l>
+                                 <l>Fall to your cheeſe-cakes, curdes, and clawted creame,</l>
+                                 <l>Your fooles, your flaunes; and of ale a ſtreame</l>
+                                 <l>To waſh it from your livers: ſtraine ewes milke</l>
+                                 <l>Into your Cider ſillabubs, and be drunke</l>
+                                 <l>To him, whoſe Fleece hath brought the earlieſt Lambe</l>
+                                 <l>This yeare; and weares the Baudrick at your bord!</l>
+                                 <l>Where you may all goe whiſtle; and record</l>
+                                 <l>
+                                    <stage place="margin">
+                                       <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap>hee leaves them.</stage> This i' your dance: and foot it luſtily.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>I pray you friends, doe you heare? and ſee, as I doe?</l>
+                                 <l>Did the ſame accents ſtrike your eares? and objects?</l>
+                                 <l>Your eyes, as mine?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>Wee taſte the ſame reproches!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lio.</speaker>
+                                 <l>Have ſeen the changes!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Are wee not all chang'd,</l>
+                                 <l>Transformed from our ſelves?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lio.</speaker>
+                                 <l>I do not know!</l>
+                                 <l>The beſt is ſilence!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>And to await the iſſue.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>The dead, or lazie wait for't: I will find it.</l>
+                              </sp>
+                           </div>
+                        </div>
+                        <div type="argument">
+                           <head>The Argument of the ſecond <hi>ACT.</hi>
+                           </head>
+                           <p>THe Witch <hi>Maudlin,</hi> having taken the ſhape of <hi>Marian</hi> to abuſe <hi>Robin-hood,</hi> and perplexe his gueſts, commeth forth with her daughter <hi>Douce,</hi> reporting in what confuſion ſhee hath left them; defrauded them, of their Veniſon; made them ſuſpitious each of the other; but moſt of all <hi>Robin-hood</hi> ſo jealous of his <hi>Marian,</hi> as ſhee hopes no effect of love would ever reconcile them; glorying ſo farre in the extent of her miſchiefe, as ſhee confeſſeth to have ſurpriz'd <hi>Earine,</hi> ſtrip'd her of her garments, to make her daughter appeare fine, at this feaſt, in them; and to have ſhut the maiden up in a tree, as her ſonnes prize, if he could winne her; or his prey, if he would force her. Her Sonne a rude bragging ſwine'ard, comes to the tree to woo her (his Mother, and Siſter ſtepping aſide, to over-heare him) and firſt boaſts his wealth to her, and his poſſeſſions; which move not. Then he preſents her guifts, ſuch as himſelfe is taken with, but ſhee utterly ſhowes a ſcorne, and loathing both of him, and them. His mother is angry, rates him, inſtructs him what to doe the next time, and perſuades her daughter, to ſhow her ſelfe about the bower: tells, how ſhee ſhall know her mother, when ſhe is transformed, her broidered belt. Meane while the yong ſheep'ardes <hi>Amy</hi> being kiſt by <hi>Karolin, Earines</hi> brother, before, falls in Love; but knowes not what Love is: but deſcribes her diſeaſe ſo innocently, that <hi>Marian</hi> pitties her. When <hi>Robin-hood,</hi> and the reſt of his Gueſts invited, enter to <hi>Marian,</hi> upbraiding her with ſending away their Veniſon to Mother <hi>Maudlin</hi> by <hi>Scathlock,</hi> which ſhee denies; <hi>Scatchlock</hi> affirmes it, but ſeeing his Miſtres weep, &amp; to forſweare it, begins to doubt his owne underſtanding, rather then affront her farder; which
+<pb n="141" facs="tcp:12103:359"/>
+makes <hi>Robin-hood,</hi> and the reſt, to examine themſelves better. But <hi>Mandlin</hi> entering like her ſelfe, the Witch comes to thanke her for her bountie: at which, <hi>Marian</hi> is more angrie, and more denies the deed. <hi>Scathlock</hi> enters, tells he has brought it againe, &amp; delivered it to the Cooke. The Witch is inwardly vext, the Veniſon is ſo recover'd from her, by the rude Huntſ<g ref="char:EOLhyphen"/>man; and murmurs, and curſes, bewitches the Cooke, mocks poore <hi>Amie,</hi> and the reſt, diſcovereth her ill nature, and is a meane of reconciling them all. For the ſage Shepherd, ſuſpecteth her miſcheife, if ſhee be not pre<g ref="char:EOLhyphen"/>vented: and ſo perſwadeth to ſeize on her. Whereupon <hi>Robin-hood</hi> diſ<g ref="char:EOLhyphen"/>patcheth out his woodmen to hunt, and take her. which ends the Act.</p>
+                        </div>
+                        <div n="2" type="act">
+                           <head>ACT. II.</head>
+                           <div n="1" type="scene">
+                              <head>SCENE. I.</head>
+                              <head type="sub">
+                                 <hi>Maudlin. Douce.</hi>
+                              </head>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>HAve I not left 'em in a brave confuſion?</l>
+                                 <l>Amaz'd their expectation? got their Veniſon?</l>
+                                 <l>Troubled their mirth, and meeting? made them doubtfull,</l>
+                                 <l>And jealous of each other? all diſtracted?</l>
+                                 <l>And, i' the cloſe, uncertaine of themſelves?</l>
+                                 <l>This can your Mother doe my daintie <hi>Douce!</hi>
+                                 </l>
+                                 <l>Take anie ſhape upon her! and delude</l>
+                                 <l>The ſenſes, beſt acquainted with their Owners!</l>
+                                 <l>The jolly <hi>Robin,</hi> who' hath bid this feaſt,</l>
+                                 <l>And made this ſolemne invitation;</l>
+                                 <l>I ha' poſſeſſed ſo, with ſyke dislikes</l>
+                                 <l>Of his owne <hi>Marian,</hi> that all-bee 'he know her,</l>
+                                 <l>As doth the vauting hart, his venting hind,</l>
+                                 <l>Hee nêre fra' hence, ſall neis her i' the wind,</l>
+                                 <l>To his firſt liking.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Dou.</speaker>
+                                 <l>Did you ſo diſtate him?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>As farre as her proud ſcorning him, could 'bate</l>
+                                 <l>Or blunt the edge of any Lovers temper.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Dou.</speaker>
+                                 <l>But were yee like her mother?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>So like <hi>Douce,</hi>
+                                 </l>
+                                 <l>As had ſhee ſeen me her ſel', her ſel 'had doubted</l>
+                                 <l>Whether had been the liker off the twâ!</l>
+                                 <l>This can your Mother doe, I tell you Daughter!</l>
+                                 <l>I ha' but dight yee, yet; i'the out-dreſſe;</l>
+                                 <l>And 'parraile of <hi>Earine!</hi> but this raiment,</l>
+                                 <l>Theſe very weeds, ſall make yee, as but comming</l>
+                                 <l>In view or ken of <hi>Aeglamour,</hi> your forme</l>
+                                 <l>Shall ſhow too ſlipperie to be look'd upon!</l>
+                                 <l>And all the Forreſt ſweare you to be ſhee!</l>
+                                 <l>They ſhall rin after yee, and wage the odds,</l>
+                                 <l>Upo' their owne deceived ſights, yee' are her!</l>
+                                 <l>Whilſt ſhee (poore Laſſe) is ſtock'd up in a tree:</l>
+                                 <l>Your brother <hi>Lorells</hi> prize! For ſo my largeſſe,</l>
+                                 <l>Hath lotted her, to be your brothers Miſtreſſe;</l>
+                                 <l>Gif ſhee can be reclaim'd: gif not, his Prey!</l>
+                                 <pb n="140" facs="tcp:12103:360"/>
+                                 <gap reason="duplicate" extent="1 page">
+                                    <desc>〈1 page duplicate〉</desc>
+                                 </gap>
+                                 <pb n="141" facs="tcp:12103:360"/>
+                                 <gap reason="duplicate" extent="1 page">
+                                    <desc>〈1 page duplicate〉</desc>
+                                 </gap>
+                                 <l>
+                                    <pb n="142" facs="tcp:12103:361"/>And here he comes, new claithed, like a Prince</l>
+                                 <l>Of Swine ards! ſike he ſeemes! dight i'the ſpoiles</l>
+                                 <l>Of thoſe he feedes! A mightie Lord of Swine!</l>
+                                 <l>He is command now, to woo. Lets ſtep aſide,</l>
+                                 <l>And heare his love-craft! See, he opes the dore!</l>
+                                 <l>And takes her by the hand, and helpes her forth!</l>
+                                 <l>This is true court-ſhip, and becomes his ray.</l>
+                              </sp>
+                           </div>
+                           <div n="2" type="scene">
+                              <head>ACT II. SCENE II.</head>
+                              <head type="sub">
+                                 <hi>Lorel. Earine. Maudlin. Douce.</hi>
+                              </head>
+                              <sp>
+                                 <speaker>Lor.</speaker>
+                                 <l>Yee kind to others, but yee coy to mee</l>
+                                 <l>Deft Miſtres! whiter then the cheeſe, new preſt!</l>
+                                 <l>Smoother then creame! and ſofter then the curds!</l>
+                                 <l>Why ſtart yee from mee, ere yee heare me tell</l>
+                                 <l>My wooing errand; and what rents I have?</l>
+                                 <l>Large heards, and paſtures! Swine, and Kie, mine owne!</l>
+                                 <l>And though my na'ſe be camus'd, my lipps thick,</l>
+                                 <l>And my chin briſtled! <hi>Pan,</hi> great <hi>Pan,</hi> was ſuch!</l>
+                                 <l>Who was the chiefe of Heardſ-men, and our Sire!</l>
+                                 <l>I am na' Fay! na' Incubus! na' Changlin!</l>
+                                 <l>But a good man, that lives o' my awne geere.</l>
+                                 <l>This houſe! theſe grounds! this ſtock is all mine awne!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Ear.</speaker>
+                                 <l>How better 'twere to mee, this were not knowne!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>Shee likes it not: but it is boaſted well!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lor.</speaker>
+                                 <l>An hundred Udders for the payle I have,</l>
+                                 <l>That gi' mee Milke and Curds, that make mee Cheeſe</l>
+                                 <l>To cloy the Mercatts! twentie ſwarme of Bees,</l>
+                                 <l>Whilke (all the Summer) hum about the hive,</l>
+                                 <l>And bring mee Waxe, and Honey in by live.</l>
+                                 <l>An aged Oake the King of all the field,</l>
+                                 <l>With a broad Beech there growes afore my dur,</l>
+                                 <l>That mickell Maſt unto the ferme doth yeild.</l>
+                                 <l>A Cheſtnut, whilk hath larded money a Swine,</l>
+                                 <l>Whoſe skins I weare, to fend me fra the Cold.</l>
+                                 <l>A Pop<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                                       <desc>•••</desc>
+                                    </gap> greene, and with a kerved Seat,</l>
+                                 <l>Under whoſe ſhade I ſolace in the heat;</l>
+                                 <l>And thence can ſee gang out, and in, my neat.</l>
+                                 <l>Twa trilland brookes, each (from his ſpring) doth meet,</l>
+                                 <l>And make a river, to refreſh my feet:</l>
+                                 <l>In which, each morning ere the Sun doth riſe,</l>
+                                 <l>I look my ſelfe, and cleare my pleaſant eyes,</l>
+                                 <l>Before I pipe; For, therein I have skill</l>
+                                 <l>'Bove other Swine'ards. Bid mee, and I will</l>
+                                 <l>Straight play to you, and make you melodie.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Ear.</speaker>
+                                 <l>By no meanes. Ah! to me all minſtrelſie</l>
+                                 <l>Is irkſome, as are you.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lor.</speaker>
+                                 <l>Why ſcorne you mee?</l>
+                                 <l>
+                                    <stage place="margin">Hee drawes out other preſents.</stage> Becauſe I am a Heardſ-man, and feed Swine!</l>
+                                 <l>I am a Lord of other geere! this ſine</l>
+                                 <l>
+                                    <pb n="143" facs="tcp:12103:361"/>Smooth Bawſons Cub, the young Grice of a Gray;</l>
+                                 <l>Twa tynie Urſhins, and this Ferret gay.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Ear.</speaker>
+                                 <l>Out on 'hem! what are theſe?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lor.</speaker>
+                                 <l>I give 'hem yee;</l>
+                                 <l>As preſents Mrs.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Ear.</speaker>
+                                 <l>O, the feind, and thee!</l>
+                                 <l>Gar take them hence: they few mand all the claithes,</l>
+                                 <l>And prick my Coates: hence with 'hem, limmer lowne,</l>
+                                 <l>Thy vermin, and thy ſelfe, thy felfe art one;</l>
+                                 <l>I lock me up. All's well when thou art gone.</l>
+                              </sp>
+                           </div>
+                           <div n="3" type="scene">
+                              <head>ACT II. SCENE III.</head>
+                              <head type="sub">
+                                 <hi>Lorel. Maudlin. Douce.</hi>
+                              </head>
+                              <sp>
+                                 <speaker>Lor.</speaker>
+                                 <l>Did you heare this? ſhee wiſh'd mee at the feind,</l>
+                                 <l>With all my preſents!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>A tu luckie end</l>
+                                 <l>Shee wiſhend thee, fowle Limmer! drittie Lowne!</l>
+                                 <l>Gud faith, it duills mee that I am thy Mother!</l>
+                                 <l>And ſee, thy Siſter ſcornes thee, for her Brother!</l>
+                                 <l>Thou woo thy Love? thy Miſtreſſe? with twa Hedge-hoggs?</l>
+                                 <l>A ſtinkand brock? a polcat? out thou houlet!</l>
+                                 <l>Thou ſhoul'dſt ha'given her, a Madge-Owle! and then</l>
+                                 <l>Tho' hadſt made a preſent o' thy ſelfe, Owle-ſpiegle!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Dou.</speaker>
+                                 <l>Why, Mother, I have heard yee bid to give;</l>
+                                 <l>And often, as the Cauſe calls.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>I know well,</l>
+                                 <l>It is a wittie part, ſum-times, to give.</l>
+                                 <l>But what? to whame? no monſters! nor to maidens!</l>
+                                 <l>Hee ſuld preſent them with mare pleaſand things,</l>
+                                 <l>Things naturall, and what all woemen covet</l>
+                                 <l>To ſee: the common Parent of us all!</l>
+                                 <l>Which Maids will twire at, 'tween their fingers, thus!</l>
+                                 <l>With which his Sire gat him! Hee's gett another!</l>
+                                 <l>And ſo beget poſteritie upon her!</l>
+                                 <l>This he ſhould do! (falſe Gelden) gang thy gait</l>
+                                 <l>And du thy turnes, betimes: or, I'is gar take</l>
+                                 <l>Thy new breikes fra' thee, and thy duib let tu.</l>
+                                 <l>The Talleur, and the Sowter ſall undu'</l>
+                                 <l>All they ha' made; except thou manlier woo!<stage place="margin">
+                                       <hi>Lorell goes</hi> out.</stage>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Dou.</speaker>
+                                 <l>Gud Mother, gif yow chide him, hee'll du wairs.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>Hang him: I geif him to the Devills eirs.</l>
+                                 <l>But, yee my <hi>Douce,</hi> I charge yee, ſhew your ſell,</l>
+                                 <l>Tu all the Sheep'ards, baudly: gaing amang'hem.</l>
+                                 <l>Be mickell i' their eye, frequent, and fuge and.</l>
+                                 <l>And, gif they aske yee of <hi>Earine,</hi>
+                                 </l>
+                                 <l>Or of theſe claithes; ſay, that I ga' hem yee,</l>
+                                 <l>And ſay no more. I ha' that wark in hand,</l>
+                                 <l>That web upo' the Luime, ſall gar 'hem thinke</l>
+                                 <l>By then, they feelin their owne frights, and feares,</l>
+                                 <l>I'is pu' the world, or Nature, bout their eares.</l>
+                                 <l>But, heare yee <hi>Douce,</hi> bycauſe, yee may meet mee</l>
+                                 <l>In mony ſhapes tu day; where ere you ſpie</l>
+                                 <l>
+                                    <pb n="144" facs="tcp:12103:362"/>This browdred belt, with Characters, tis I.</l>
+                                 <l>A Gypſan Ladie, and a right Beldame,</l>
+                                 <l>Wrought it by Moone-ſhine for mee, and Star-light,</l>
+                                 <l>Upo' your Granams grave, that verie night</l>
+                                 <l>Wee earth'd her, in the ſhades; when our Dame <hi>Hecat,</hi>
+                                 </l>
+                                 <l>Made it her gaing-night, over the Kirk-yard,</l>
+                                 <l>Withall the barke and pariſh tykes ſet at her,</l>
+                                 <l>While I ſate whyrland, of my braſen ſpindle:</l>
+                                 <l>At every twiſted thrid my rock let flie</l>
+                                 <l>Unto the ſew'ſter, who did ſit me nigh,</l>
+                                 <l>Under the towne-turne-pike; which ran each ſpell</l>
+                                 <l>She ſtitched in the worke, and knit it well.</l>
+                                 <l>See, yee take tent to this, and ken 'your Mother.</l>
+                              </sp>
+                           </div>
+                           <div n="4" type="scene">
+                              <head>ACT II. SCENE IV.</head>
+                              <head type="sub">
+                                 <hi>Marian. Mellifleur. Amie.</hi>
+                              </head>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>How do you ſweet <hi>Amie?</hi> yet?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mel.</speaker>
+                                 <l>Shee cannot tell,</l>
+                                 <l>If ſhee could ſleepe, ſhee ſaies, ſhee ſhould do well.</l>
+                                 <l>Shee feeles a hurt, but where, ſhee cannot ſhow</l>
+                                 <l>Any leaſt ſigne, that ſhee is hurt or no.</l>
+                                 <l>Her paine's not doubtfull to her; but the ſeat</l>
+                                 <l>Of her paine is. Her thoughts too work, and beat,</l>
+                                 <l>Oppreſt with Cares: but why, ſhee cannot ſay.</l>
+                                 <l>All matter of her care is quite away.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Hath any Vermin broke into your Fold?</l>
+                                 <l>Or any rott ſeiz'd on your flock? or cold?</l>
+                                 <l>Or hath your feighting Ram, burſt his hard horne?</l>
+                                 <l>Or any Ewe her fleece? or bag hath torne,</l>
+                                 <l>My gentle <hi>Amie? Am. Marian,</hi> none of theſe.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Ha' you been ſtung by Waſpes, or angry Bees?</l>
+                                 <l>Or raz'd with ſome rude bramble, or rough briar?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Am.</speaker>
+                                 <l>No <hi>Marian;</hi> my diſeaſe is ſomewhat nigher.</l>
+                                 <l>I weep, and boile away my Selfe, in teares;</l>
+                                 <l>And then my panting heart would dry thoſe feares:</l>
+                                 <l>I burne, though all the Forreſt lend a ſhade;</l>
+                                 <l>And freize, though the whole Wood one fire were made.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Alas!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Am.</speaker>
+                                 <l>I often have been torne with thorne and briar;</l>
+                                 <l>Both in the Leg, and Foot, and ſomewhat higher:</l>
+                                 <l>Yet gave not then ſuch fearfull ſhreikes as theſe. Ah!</l>
+                                 <l>I often have been ſtung too, with curſt Bees,</l>
+                                 <l>Yet not remember that I then did quit</l>
+                                 <l>Either my Companie, or Mirth for it. Ah!</l>
+                                 <l>And therefore, what it is that I feele now,</l>
+                                 <l>And know no cauſe of it, nor where, nor how,</l>
+                                 <l>It entred in mee, nor leaſt print can ſee,</l>
+                                 <l>I feele afflicts mee more, then Briar, or Bee. Oh!</l>
+                                 <l>How often, when the Sun heavens brighteſt birth</l>
+                                 <l>Hath with his burning fervour cleft the earth,</l>
+                                 <l>
+                                    <pb n="145" facs="tcp:12103:362"/>Under a ſpreading Elme, or Oake, hard by</l>
+                                 <l>A coole cleare fountaine, could I ſleeping lie</l>
+                                 <l>Safe from the heate? but now, no ſhadie tree,</l>
+                                 <l>Nor purling brook, can my refreſhing bee?</l>
+                                 <l>Oft when the medowes, were growne rough with froſt,</l>
+                                 <l>The rivers ice-bound, and their currents loſt,</l>
+                                 <l>My thick warme fleece I wore, was my defence</l>
+                                 <l>Or large good fires, I made, drave winter thence.</l>
+                                 <l>But now, my whole flocks fells, nor this thick grove,</l>
+                                 <l>Enflam'd to aſhes, can my cold remove.</l>
+                                 <l>It is a cold, and heat, that doth out goe</l>
+                                 <l>All ſenſe of Winters, and of Summers ſo.</l>
+                              </sp>
+                           </div>
+                           <div n="5" type="scene">
+                              <head>ACT II. SCENE V.</head>
+                              <head type="sub">
+                                 <hi>Robin-hood. Clarion. Lionel. Alken.</hi>
+                              </head>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>O', are you here, my Miſtreſſe?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>I my Love!<stage place="margin">Shee ſeing him, runs to imbrace him. He puts her back.</stage>
+                                 </l>
+                                 <l>Where ſhould I be, but in my <hi>Robins</hi> armes?</l>
+                                 <l>The Sphere which I delight in, ſo to move?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>What the rude Ranger? and ſpied Spie? hand off:</l>
+                                 <l>You are for no ſuch ruſticks.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>What meanes this,</l>
+                                 <l>Thrice worthy <hi>Clarion?</hi> or wiſe <hi>Alken?</hi> know yee?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>'Las no, not they! a poore ſterv'd Muttons carkaſſe</l>
+                                 <l>Would better fit their palat's, then your Veniſon.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>What riddle is this! unfold your ſelfe, deare <hi>Robin.</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>You ha' not ſent your Veniſon hence by <hi>Scathlock,</hi>
+                                 </l>
+                                 <l>To Mother <hi>Maudlin?</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>I to Mother <hi>Maudlin?</hi>
+                                 </l>
+                                 <l>Will <hi>Scathlock</hi> ſay ſo?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Nay, wee will all ſweare ſo.</l>
+                                 <l>For all did heare it, when you gave the charge ſo.</l>
+                                 <l>Both <hi>Clarion, Alken, Lionel,</hi> my ſelfe.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Good honeſt Shep'ards, Maſters of your flocks,</l>
+                                 <l>Simple, and vertuous men, no others hirelings;</l>
+                                 <l>Be not you made to ſpeake againſt your Conſcience,</l>
+                                 <l>That which may ſoile the truth. I ſend the Veniſon</l>
+                                 <l>Away? by <hi>Scathlock?</hi> and to mother <hi>Maudlin?</hi>
+                                 </l>
+                                 <l>I came to ſhew it here, to <hi>Mellifleur,</hi>
+                                 </l>
+                                 <l>I doe confeſſe; but <hi>Amies</hi> falling ill,</l>
+                                 <l>Did put us of it:<stage place="margin">
+                                       <hi>Scathlock,</hi> en<g ref="char:EOLhyphen"/>ters.</stage> Since wee imploied our ſelves</l>
+                                 <l>In comforting of her. O', here he is!</l>
+                                 <l>Did I, Sir, bid you beare away the Veniſon,</l>
+                                 <l>To mother <hi>Maudlin?</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Sca.</speaker>
+                                 <l>I gud faith, Madam,</l>
+                                 <l>Did you, and I ha' done it.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>What ha' you done?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Sea.</speaker>
+                                 <l>Obey'd your heſts, Madam; done your Commaunds.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Done my Commaunds, dull groome? Fetch it againe</l>
+                                 <l>Or kennel with the hounds. Are theſe the Arts</l>
+                                 <l>
+                                    <hi>Robin,</hi> you read your rude ones o' the wood,</l>
+                                 <l>To countenance your quarrells, and miſtakings?</l>
+                                 <l>Or are the ſports to entertaine your friends</l>
+                                 <l>Thoſe formed jealouſies? Aske of <hi>Mellifleur,</hi>
+                                 </l>
+                                 <l>
+                                    <pb n="146" facs="tcp:12103:363"/>If I were ever from her, here, or <hi>Amie,</hi>
+                                 </l>
+                                 <l>Since I came in with them; or ſaw this <hi>Scathlock,</hi>
+                                 </l>
+                                 <l>Since I related to you his tale, o' the Raven?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Sca.</speaker>
+                                 <l>
+                                    <stage place="margin">
+                                       <hi>Scathlock</hi> goes out.</stage> I, ſay you ſo?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mel.</speaker>
+                                 <l>Shee never left my ſide</l>
+                                 <l>Since I came in, here, nor I hers.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>This's ſtrange!</l>
+                                 <l>Our beſt of Senſes were deceiv'd, our eyes, then!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lio.</speaker>
+                                 <l>And eares too.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>What you have concluded on,</l>
+                                 <l>Make good I pray you.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Am.</speaker>
+                                 <l>O' my heart, my heart!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>My heart it is, is wounded prettie <hi>Amie;</hi>
+                                 </l>
+                                 <l>Report not you your greifes: I'll tell for all.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mel.</speaker>
+                                 <l>Some body is to blame, there is a fault.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Try if you can take reſt. A little ſlumber</l>
+                                 <l>Will much refreſh you <hi>(Amie).</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>What's her greif?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Shee does not know: and therein ſhee is happie.</l>
+                              </sp>
+                           </div>
+                           <div n="6" type="scene">
+                              <head>ACT II. SCENE VI.</head>
+                              <head type="sub">
+                                 <hi>John, Maudlin,</hi> and <hi>Scathlock</hi> after.<hi rend="stage">To them</hi>
+                              </head>
+                              <sp>
+                                 <speaker>Joh.</speaker>
+                                 <l>Here's Mother <hi>Maudlin</hi> come to give you thanks,</l>
+                                 <l>Madam, for ſome late guift, ſhee hath receiv'd—</l>
+                                 <l>Which ſhee's not worthie of, ſhee ſaies, but crakes,</l>
+                                 <l>And wonders of it; hoppes about the houſe;</l>
+                                 <l>
+                                    <stage place="margin">Shee daun<g ref="char:EOLhyphen"/>ceth.</stage> Tranſported with the joy.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>Send mee a Stagge!</l>
+                                 <l>A whole Stagge, Madam! and ſo fat a Deere!</l>
+                                 <l>So fairelie hunted, and at ſuch a time too!</l>
+                                 <l>When all your freinds were here!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Do you mark this, <hi>Clarion?</hi>
+                                 </l>
+                                 <l>Her owne acknowledgement?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>'Twas ſuch a bountie</l>
+                                 <l>And honour done to your poore Bedeſ-woman,</l>
+                                 <l>I know not how to owe it, but to thanke you.</l>
+                                 <l>And that I come to du: I ſhall goe round,</l>
+                                 <l>
+                                    <stage place="margin">Shee turnes round, till ſhee falls.</stage> And giddie with the toy of the good turne.</l>
+                                 <q>
+                                    <l>Looke out, looke out, gay folke about,</l>
+                                    <l>And ſee mee ſpin; the ring I' am in</l>
+                                    <l>Of mirth, &amp; glee, with thanks for fee</l>
+                                    <l>The heart putts on, for th' Veniſon</l>
+                                    <l>My Lady ſent, which ſhall be ſpent</l>
+                                    <l>In draughts of Wine, to fume up fine</l>
+                                    <l>Into the braine, and downe againe</l>
+                                    <l>Fall in a Swoune, upo' the growne.</l>
+                                 </q>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Look to her, ſhee is mad.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Man.</speaker>
+                                 <l>My Son hath ſent you</l>
+                                 <l>A pott of Strawberries, gather'd i' the wood</l>
+                                 <l>(His Hoggs would els have rooted up, or trod)</l>
+                                 <l>With a choice diſh of wildings here, to ſcald</l>
+                                 <l>And mingle with your Creame.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Thank you good <hi>Maudlin,</hi>
+                                 </l>
+                                 <l>And thanke your Sonne. Go, beare 'hem into <hi>Much</hi>
+                                 </l>
+                                 <l>Th' Acater, let him thanke her. Surelie, Mother</l>
+                                 <l>You were miſtaken, or my Woodmen more,</l>
+                                 <l>Or moſt my ſelfe, to ſend you all our ſtore</l>
+                                 <l>Of Veniſon, hunted for our ſelves, this day!</l>
+                                 <l>
+                                    <pb n="147" facs="tcp:12103:363"/>You will not take it, Mother, I dare ſay,</l>
+                                 <l>If wee'lld intreat you; whan you know our gheſts:</l>
+                                 <l>Red Deere is head ſtill of the forreſt feaſts.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>But I knaw yee, a right free-hearted Ladie,</l>
+                                 <l>Can ſpare it out of ſuperfluitie:</l>
+                                 <l>I have departit it 'mong my poore Neighbours</l>
+                                 <l>To ſpeake your Largeſſe.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>I not gave it, Mother;</l>
+                                 <l>You have done wrong. then; I know how to place</l>
+                                 <l>My guifts, and where; and when to find my ſeaſons</l>
+                                 <l>To give, not throw away my Curteſies.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>Count you this thrown away?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>What's raviſh'd from mee</l>
+                                 <l>I count it worſe; as ſtolne: I looſe my thanks.</l>
+                                 <l>But leave this queſt: they fit not you, not mee,</l>
+                                 <l>
+                                    <hi>Maudlin,</hi> Contentions of this qualitie.</l>
+                                 <l>How now?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Sca.</speaker>
+                                 <l>Your Stag's return'd upon my ſhoulders,<stage place="margin">
+                                       <hi>Scathlock,</hi> enters.</stage>
+                                 </l>
+                                 <l>Hee has found his way into the Kitchin againe:</l>
+                                 <l>With his two Leggs, If now your Cooke can dreſſe him;</l>
+                                 <l>Slid, I thought the Swine'ard would ha' be at mee,</l>
+                                 <l>Hee lookes ſo big! the ſturdie Karle, lewd <hi>Lorel!</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>There <hi>Scathlock,</hi> for thy plines, thou haſt deſerv'd it.<stage place="margin">
+                                       <hi>Marian</hi> gives him Gold.</stage>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>Do you give a thing, and take a thing, Madam?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>No, <hi>Maudlin,</hi> you had imparted to your Neighbours;</l>
+                                 <l>As much good doo't them: I ha' done no wrong.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>
+                                    <hi>The Spit ſtand ſtill, no Broches turne</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Before the fire,</hi>
+                                    <note place="margin">The firſt Charme.</note> 
+                                    <hi>but let it burne</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Both ſides, and haunches, till the whole</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Converted be into one Cole.</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>What Devills <hi>Pater noſter</hi> mumbles ſhee?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>Stay, you will heare more of her witcherie</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>
+                                    <hi>The Swilland Dropſie enter in</hi>
+                                 </l>
+                                 <l>
+                                    <hi>The Lazie</hi> Cuke, <hi>and ſwell his skin;</hi>
+                                    <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                                 </l>
+                                 <l>
+                                    <hi>And the old Mort-malon his ſhin</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Now prick, and itch, withouten blin.</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>Speake out Hagge, wee may heare your Devills Mattens.<milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>
+                                    <hi>The Paene, wee call</hi> S. Antons <hi>fire</hi>
+                                 </l>
+                                 <l>
+                                    <hi>The Gout, or what wee can deſire,</hi>
+                                 </l>
+                                 <l>
+                                    <hi>To crampe a</hi> Cuke, <hi>in every lim,</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Before they dine, yet; ſeize on him.</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>A ſoule ill Spirit hath poſſeſſed her.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Am.</speaker>
+                                 <l>O <hi>Karol, Karol,</hi> call him back againe.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lio.</speaker>
+                                 <l>Her thoughts do worke upon her, in her ſlumber.</l>
+                                 <l>And may expreſſe ſome part of her diſeaſe.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Obſerve, and marke, but trouble not her eaſe.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Am.</speaker>
+                                 <l>O', ô.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>How is't <hi>Amie?</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mel.</speaker>
+                                 <l>Wherfore ſtart you?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Am.</speaker>
+                                 <l>O' <hi>Karol,</hi> he is faire, and ſweet.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>What then?</l>
+                                 <l>Are there not flowers as ſweet, and faire, as men?</l>
+                                 <l>The Lillie is faire! and Roſe is ſweet!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Am.</speaker>
+                                 <l>I', ſo!</l>
+                                 <l>Let all the Roſes, and the Lillies goe:</l>
+                                 <l>
+                                    <hi>Karol</hi> is only faire to mee!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>And why?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Am.</speaker>
+                                 <l>Alas for <hi>Karol, Marian,</hi> I could die.</l>
+                              </sp>
+                              <sp>
+                                 <pb n="148" facs="tcp:12103:364"/>
+                                 <speaker>Karol.</speaker>
+                                 <l>He ſingeth ſweetly too!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>What then?</l>
+                                 <l>Are there not Birds ſing ſweeter farre, then Men?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Am.</speaker>
+                                 <l>I grant the Linet, Larke, and Bul-finchſing,</l>
+                                 <l>But beſt, the deare, good Angell of the Spring,</l>
+                                 <l>The Nightingale.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>Then why? then why, alone,</l>
+                                 <l>Should his notes pleaſe you?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Am.</speaker>
+                                 <l>I not long agone</l>
+                                 <l>Tooke a delight, with wanton kidds to play,</l>
+                                 <l>And ſport with little Lambes a Summers Day!</l>
+                                 <l>And view their friskes! me thought it was a ſight</l>
+                                 <l>Of joy, to ſee my two brave Rammes to fight!</l>
+                                 <l>Now <hi>Karol,</hi> onely, all delight doth move!</l>
+                                 <l>All that is <hi>Karol, Karol</hi> I approve!</l>
+                                 <l>This verie morning, but— (I did beſtow</l>
+                                 <l>(It was a little 'gainſt my will, I know)</l>
+                                 <l>A ſingle kiſſe, upon the ſeelie Swaine,</l>
+                                 <l>And now I wiſh that verie kiſſe againe.</l>
+                                 <l>His lip is ſofter, ſweeter then the Roſe</l>
+                                 <l>His mouth, and tongue with dropping honey flowes.</l>
+                                 <l>The reliſh of it was a pleaſing thing.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>Yet like the Bees it had a little ſting.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Am.</speaker>
+                                 <l>And ſunke, and ſticks yet in my marrow deepe</l>
+                                 <l>And what doth hurt me, I now wiſh to keepe.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Alas, how innocent her Storie is!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Am.</speaker>
+                                 <l>I doe remember, <hi>Marian,</hi> I have oft</l>
+                                 <l>With pleaſure kiſt my Lambes, and Puppies, ſoft,</l>
+                                 <l>And once a daintie fine Roe-fawne I had,</l>
+                                 <l>Of whoſe out-skipping bounds, I was as glad</l>
+                                 <l>As of my health; and him I oft would kiſſe:</l>
+                                 <l>Yet had his, no ſuch ſting, or paine, as this.</l>
+                                 <l>They never prick't or hurt my heart. And, for</l>
+                                 <l>They were ſo blunt, and dull, I wiſh no more.</l>
+                                 <l>But this, that hurtes, and prickes doth pleaſe; This ſweet,</l>
+                                 <l>Mingled with ſower, I wiſh againe to meet:</l>
+                                 <l>And that delay, mee thinks, moſt tedious is</l>
+                                 <l>That keepes, or hinders mee of <hi>Karols</hi> kiſſe.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Wee'll ſend for him ſweet <hi>Amie,</hi> to come to you.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>
+                                    <stage place="margin">Shee goes murmuring out.</stage> But, I will keepe him of if Charmes will doe it.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>Doe you marke the murmuring hagge, how ſhee doth mutter?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>I like her not. And leſſe her manners now.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>Shee is a ſhrewd deformed peice, I vow.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lio.</speaker>
+                                 <l>As crooked as her bodie.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>I beleeve</l>
+                                 <l>Shee can take any Shape; as <hi>Scathlock</hi> ſaies.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>Shee may deceive the Senſe, but really</l>
+                                 <l>Shee cannot change her ſelfe.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Would I could ſee her,</l>
+                                 <l>Once more in <hi>Marians</hi> forme! for I am certaine</l>
+                                 <l>Now, it was ſhee abus'd us; as I think</l>
+                                 <l>My <hi>Marian,</hi> and my Love, now, innocent:</l>
+                                 <l>Which faith I ſeale unto her, with this kiſſe,</l>
+                                 <l>And call you all to witneſſe of my pennance.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>It was beleiv'd before, but now confirm'd,</l>
+                                 <l>
+                                    <pb n="149" facs="tcp:12103:364"/>That wee have ſeen the Monſter.</l>
+                              </sp>
+                           </div>
+                           <div n="7" type="scene">
+                              <head>ACT II. SCENE VII.</head>
+                              <head type="sub">
+                                 <hi>Tuck. John. Much. Scarlet.</hi>
+                                 <hi rend="stage">To them</hi>
+                              </head>
+                              <sp>
+                                 <speaker>Tuc.</speaker>
+                                 <l>Heare you how</l>
+                                 <l>Poore <hi>Tom,</hi> the Cooke, is taken! All his joynts</l>
+                                 <l>Do crack, as if his Limbes were tied with points:</l>
+                                 <l>His whole frame ſlackens; and a kind of rack</l>
+                                 <l>Runs downe along the Spondylls of his back;</l>
+                                 <l>A Gowt, or Crampe, now ſeizeth on his head,</l>
+                                 <l>Then falls into his feet; his knees are lead;</l>
+                                 <l>And he can ſtirre his either hand, no more</l>
+                                 <l>Then a dead ſtumpe, to his office, as before.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>Hee is bewitched.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>This is an Argument</l>
+                                 <l>Both of her malice, and her power, wee ſee.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>Shee muſt by ſome device reſtrained bee,</l>
+                                 <l>Or ſhee'll goe farre in miſchiefe.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Adviſe how,</l>
+                                 <l>Sage Shep'ard, wee ſhall put it ſtraight in practice.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>Send forth your woodmen, then, into the walkes,</l>
+                                 <l>Or let'em prick her footing hence; A Witch</l>
+                                 <l>Is ſure a Creature of Melancholy,</l>
+                                 <l>And will be found, or ſitting in her fourme,</l>
+                                 <l>Or els, at releife, like a Hare.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>You ſpeake</l>
+                                 <l>
+                                    <hi>Alken,</hi> as if you knew the ſport of Witch-hunting,<stage place="margin">Enter <hi>George</hi> to the Hunts<g ref="char:EOLhyphen"/>men; who by themſelves continue the Scene. The reſt go<g ref="char:EOLhyphen"/>ing off.</stage>
+                                 </l>
+                                 <l>Or ſtarting of a Hag.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Go ſirs about it,</l>
+                                 <l>Take <hi>George</hi> here with you, he can helpe to find her;</l>
+                                 <l>Leave <hi>Tuck,</hi> and <hi>Much</hi> behind to dreſſe the Dinner,</l>
+                                 <l>I' the Cookes ſtead.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Much.</speaker>
+                                 <l>Wee'll care to get that done.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Come <hi>Marian,</hi> lets withdraw into the bowre.</l>
+                              </sp>
+                           </div>
+                           <div n="8" type="scene">
+                              <head>ACT II. SCENE VIII.</head>
+                              <head type="sub">
+                                 <hi>John. Scarlet. Scathlock. George. Alken.</hi>
+                              </head>
+                              <sp>
+                                 <speaker>Jo.</speaker>
+                                 <l>Rare ſport I ſweare! this hunting of the Witch</l>
+                                 <l>Will make us.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Scar.</speaker>
+                                 <l>Let's adviſe upon't, like huntſmen.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Geo.</speaker>
+                                 <l>And wee can ſpie her once, ſhee is our owne.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Sca.</speaker>
+                                 <l>Firſt, think which way ſhee fourmeth, on what wind:</l>
+                                 <l>Or North, or South.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Geo.</speaker>
+                                 <l>For, as the Shep'ard ſaid,</l>
+                                 <l>A Witch is a kind of Hare.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Scat.</speaker>
+                                 <l>And markes the weather,</l>
+                                 <l>As the hare does.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Jo.</speaker>
+                                 <l>Where ſhall wee hope to find her?<stage place="margin">
+                                       <hi>Alken</hi> re<g ref="char:EOLhyphen"/>turnes.</stage>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>I have ask'd leave to aſſiſt you, jollie huntſmen,</l>
+                                 <l>If an old Shep'herd may be heard among you;</l>
+                                 <l>Not jear'd or laugh'd at.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Jo.</speaker>
+                                 <l>Father, you will ſee</l>
+                                 <l>
+                                    <hi>Robin-hoods</hi> houſe-hold, know more Curteſie.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Scat.</speaker>
+                                 <l>Who ſcornes at eld, peeles of his owne young haires.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>Yee ſay right well. Know yee the Witches Dell?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Scar.</speaker>
+                                 <l>No more then I do know the walkes of Hell.</l>
+                              </sp>
+                              <sp>
+                                 <pb facs="tcp:12103:365"/>
+                                 <speaker>Alk.</speaker>
+                                 <l>Within a gloomie dimble, ſhee doth dwell</l>
+                                 <l>Downe in a pitt, ore-growne with brakes and briars.</l>
+                                 <l>Cloſe by the ruines of a ſhaken Abbey</l>
+                                 <l>Torne, with an Earth-quake, down unto the ground,</l>
+                                 <l>'Mongſt graves, and grotts, neare an old Charnell houſe,</l>
+                                 <l>Where you ſhall find her ſitting in her fourme,</l>
+                                 <l>As fearfull, and melancholique, as that</l>
+                                 <l>Shee is about; with Caterpillers kells,</l>
+                                 <l>And knottie Cobwebs, rounded in with ſpells;</l>
+                                 <l>Thence ſhee ſteales forth to releif, in the foggs,</l>
+                                 <l>And rotten Miſtes, upon the fens, and boggs,</l>
+                                 <l>Downe to the drowned Lands of <hi>Lincolneſhire;</hi>
+                                 </l>
+                                 <l>To make Ewes caſt their Lambs! Swine eate their Farrow!</l>
+                                 <l>The Houſe-wifes Tun not worke! Nor the Milk churne!</l>
+                                 <l>Writhe Childrens wriſts! and ſuck their breath in ſleepe!</l>
+                                 <l>Get Vialls of their blood! And where the Sea</l>
+                                 <l>Caſts up his ſlimie Owze, ſearch for a weed</l>
+                                 <l>To open locks with, and to rivet Charmes,</l>
+                                 <l>Planted about her, in the wicked feat,</l>
+                                 <l>Of all her miſchiefes, which are manifold.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Jo.</speaker>
+                                 <l>I wonder ſuch a ſtorie could be told,</l>
+                                 <l>Of her dire deeds.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Geo.</speaker>
+                                 <l>I thought a Witches bankes</l>
+                                 <l>Had inclos'd nothing, but the merrie prankes</l>
+                                 <l>Of ſome old woman.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Skar.</speaker>
+                                 <l>Yes, her malice more!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Sca.</speaker>
+                                 <l>As it would quickly appeare, had wee the Store</l>
+                                 <l>Of his Collects.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Geo.</speaker>
+                                 <l>I, this gud learned Man</l>
+                                 <l>Can ſpeake her right.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Skar.</speaker>
+                                 <l>He knowes, her ſhifts, and haunts!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>And all her wiles, and turnes. The venom'd Plants</l>
+                                 <l>Wherewith ſhee kill's! where the ſad Mandrake growes,</l>
+                                 <l>Whoſe grones are deathfull! the dead-numming Night-ſhade!</l>
+                                 <l>The ſtupifying Hemlock! Adders tongue!</l>
+                                 <l>And Martagan! the ſhreikes of luckleſſe Owles,</l>
+                                 <l>Wee heare! and croaking Night-Crowes in the aire!</l>
+                                 <l>Greene-bellied Snakes! blew fire-drakes in the skie!</l>
+                                 <l>And giddie Flitter-mice, with lether wings!</l>
+                                 <l>The ſcalie Beetles, with their habergeons,</l>
+                                 <l>That make a humming Murmur as they flie!</l>
+                                 <l>There, in the ſtocks of trees, white Faies doe dwell,</l>
+                                 <l>And ſpan-long Elves, that dance about a poole!</l>
+                                 <l>With each a little Changeling, in their armes!</l>
+                                 <l>The airie ſpirits play with falling ſtarres!</l>
+                                 <l>And mount the Sphere of fire, to kiſſe the Moone!</l>
+                                 <l>While, ſhee fitts reading by the Glow-wormes light,</l>
+                                 <l>Or rotten wood (o're which the worme hath crept)</l>
+                                 <l>The banefull ſcedule of her nocent charmes,</l>
+                                 <l>And binding Characters, through which ſhee wounds</l>
+                                 <l>Her Puppetts, the <hi>Sigilla</hi> of her witch-craft.</l>
+                                 <l>All this I know, and I will find her for you;</l>
+                                 <l>And ſhew you'her ſitting in her fourme; I'le lay</l>
+                                 <l>My hand upon her; make her throw her skutt</l>
+                                 <l>
+                                    <pb n="143" facs="tcp:12103:365"/>Along her back, when ſhee doth ſtart before us.</l>
+                                 <l>But you muſt give her Law: and you ſhall ſee her</l>
+                                 <l>Make twentie leapes, and doubles; croſſe the pathes,</l>
+                                 <l>And then ſquatt downe beſide us.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Jo.</speaker>
+                                 <l>Craftie Croane!</l>
+                                 <l>I long to be at the ſport, and to report it.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Scar.</speaker>
+                                 <l>Wee'll make this hunting of the Witch, as famous, As any other blaſt of Venerie.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Scat.</speaker>
+                                 <l>Hang her foule hagge, ſhee'll be a ſtinking Chaſe!</l>
+                                 <l>I had rather ha' the hunting of heir heyre.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Geo.</speaker>
+                                 <l>If wee could come to ſee her, cry, ſo haw, once!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Alk.</speaker>
+                                 <l>That I doe promiſe, or I'am no good Hag-finder.</l>
+                              </sp>
+                           </div>
+                        </div>
+                        <div type="argument">
+                           <head>The Argument of the third <hi>ACT.</hi>
+                           </head>
+                           <p>
+                              <hi>PUck-hairy</hi> diſcovers himſelfe in the Forreſt, and diſcourſeth his offi<g ref="char:EOLhyphen"/>ces with their neceſſities, breifly; After which, <hi>Douce,</hi> entring in the habit of <hi>Earine,</hi> is purſued by <hi>Karol;</hi> who miſtaking her at firſt to be his Siſter, queſtions her, how ſhee came by thoſe garments. Shee anſwers, by her mothers gift. The ſad Shepherd comming in the while, ſhee runs away affrighted, and leaves <hi>Karol,</hi> ſodainely; <hi>Aeglamour</hi> thinking it to be <hi>Earines</hi> ghoſt he ſaw, falls into a melancholique expreſſion of his phantſie to <hi>Karol,</hi> &amp; queſtions him ſadly about that point, which moves compaſſion in <hi>Karol</hi> of his miſtake ſtill. When <hi>Clarion,</hi> and <hi>Lionell</hi> enter to call <hi>Karol</hi> to <hi>Amie; Karol</hi> reports to them <hi>Aeglamours</hi> paſſion, with much regreet. <hi>Clarion</hi> reſolves to ſeeke him. <hi>Karol</hi> to returne with <hi>Lionell.</hi> By the way <hi>Douce,</hi> and her Mother (in the ſhape of <hi>Marian</hi>) meet them, and would divert them, affirming <hi>Amie</hi> to be recovered, which <hi>Lionell</hi> wondred at to be ſo ſoone. <hi>Robin-hood</hi> enters, they tell him the relation of the Witch, thinking her to be <hi>Marian; Robin</hi> ſuſpecting her to be <hi>Maud<g ref="char:EOLhyphen"/>lin,</hi> lay's hold of her Girdle ſodainely, but ſhee ſtriving to get free, they both run out, and he returnes with the belt broken. Shee following in her owne ſhape, demaunding it, but at a diſtance, as fearing to be ſeiz'd upon againe; and ſeeing ſhee cannot recover it, falls into a rage, and cur<g ref="char:EOLhyphen"/>ſing, reſolving to truſt to her old artes, which ſhee calls her daughter to aſſiſt in. The Shepherds content with this diſcovery, goe home trium<g ref="char:EOLhyphen"/>phing, make the relation to <hi>Marian. Amie</hi> is gladded with the ſight of <hi>Karol,</hi> &amp;c. In the meane time enters <hi>Lorel,</hi> with purpoſe to raviſh <hi>Earine,</hi> and calling her forth to that lewd end, he by the hearing of <hi>Clarions</hi> foo<g ref="char:EOLhyphen"/>ting, is ſtaid, and forced to commit her haſtily to the tree againe, where <hi>Clarion</hi> comming by, and hearing a voyce ſinging, drawes neere unto it, but <hi>Aeglamour</hi> hearing it alſo, and knowing it to be <hi>Earine's,</hi> falls into a ſuperſtitious commendation of it, as being an Angells, and in the aire, when <hi>Clarion</hi> eſpies a hand put forth from the tree, and makes towards it, leaving <hi>Aeglamour</hi> to his wild phantſie, who quitteth the place, and <hi>Cla<g ref="char:EOLhyphen"/>rion</hi> beginning to court the hand, and make love to it, there ariſeth amiſt ſodainely, which, darkning all the place, <hi>Clarion</hi> looſeth himſelfe, and
+<pb n="152" facs="tcp:12103:366"/>
+the tree where <hi>Earine</hi> is incloſed, lamenting his misfortune, with the un<g ref="char:EOLhyphen"/>knowne nimphs miſerie. The Aire clearing, enters the Witch, with her Son and Daughter, tells them how ſhee had cauſed that late darkeneſſe, to free <hi>Lorell</hi> from ſurpriſall, and his prey from being reskued from him: bids him looke to her, and lock her up more carefully, and follow her, to aſſiſt a work, ſhee hath in hand, of recovering her loſt Girdle; which ſhee laments the loſſe of, with curſings, execrations, wiſhing confuſion to their feaſt, and meeting: ſends her Sonne, and Daughter to gather cer<g ref="char:EOLhyphen"/>taine Simples, for her purpoſe, and bring them to her Dell. This <hi>Puck</hi> hearing prevents, &amp; ſhewes her error ſtill. The Huntſ-men having found her footing, follow the tract, and prick after her. Shee getts to her Dell, and takes her Forme. Enter, <hi>Alken</hi> has ſpied her ſitting with her Spindle, Threds, and Images. They are eager to ſeize her preſently, but <hi>Alken</hi> perſwades them to let her begin her charmes, which they doe. Her Sonne and Daughter come to her, the Huntſ-men are afrighted as they ſee her worke goe forward. And over-haſtie to apprehend her, ſhee eſcapeth them all, by the helpe and deluſions of <hi>Puck.</hi>
+                           </p>
+                        </div>
+                        <div n="3" type="act">
+                           <head>ACT III.</head>
+                           <div n="1" type="scene">
+                              <head>SCENE I.</head>
+                              <head type="sub">
+                                 <hi>Puck-hairy.</hi>
+                              </head>
+                              <sp>
+                                 <l>THe Feind hath much to doe, that keepes a Schoole;</l>
+                                 <l>Or is the Father of a familie;</l>
+                                 <l>Or governes but a country Academie:</l>
+                                 <l>His labours muſt be great, as are his cares,</l>
+                                 <l>To watch all turnes, and caſt how to prevent 'hem.</l>
+                                 <l>This Dame of mine here,</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Maud.</speaker>
+                                 <l>growes high in evill,</l>
+                                 <l>And thinkes ſhee doe's all, when 'tis I, her Divell,</l>
+                                 <l>That both delude her, and muſt yet protect her:</l>
+                                 <l>Shee's confident in miſcheife, and preſumes</l>
+                                 <l>The changing of her ſhape will ſtill ſecure her.</l>
+                                 <l>But that may faile, and diverſe hazards meete</l>
+                                 <l>Of other conſequence, which I muſt looke to.</l>
+                                 <l>Not let her be ſurpriz'd on the firſt catch.</l>
+                                 <l>I muſt goe daunce about the Forreſt, now,</l>
+                                 <l>And firke it like a Goblin, till I find her.</l>
+                                 <l>Then will my ſervice come worth acceptation;</l>
+                                 <l>When not expected of her, when the helpe</l>
+                                 <l>Meetes the neceſſity, and both doe kiſſe</l>
+                                 <l>'Tis call'd the timing of a dutie, this.</l>
+                              </sp>
+                           </div>
+                           <div n="2" type="scene">
+                              <head>ACT III. SCENE II.</head>
+                              <head type="sub">
+                                 <hi>Karol. Douce,</hi> to them <hi>Aeglamour.</hi>
+                              </head>
+                              <sp>
+                                 <speaker>Kar.</speaker>
+                                 <l>Sure, you are very like her! I conceiv'd</l>
+                                 <l>You had been ſhee, ſeeing you run afore mee:</l>
+                                 <l>For ſuch a ſuite ſhee made her 'gainſt this Feaſt;</l>
+                                 <l>
+                                    <pb n="153" facs="tcp:12103:366"/>In all reſemblance, or the verie <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>ame;</l>
+                                 <l>I ſaw her in it; had ſhee liv'd t' enjoy it</l>
+                                 <l>Shee had been there an acceptable Gueſt</l>
+                                 <l>To <hi>Marian,</hi> and the gentle <hi>Robin-hood,</hi>
+                                 </l>
+                                 <l>Who are the Crowne, and Ghirland of the Wood.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Dou.</speaker>
+                                 <l>I cannot tell: my Mother gave it mee,</l>
+                                 <l>And bad mee weare it.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Kar.</speaker>
+                                 <l>Who, the wiſe good Woman?</l>
+                                 <l>Old <hi>Maud.</hi> of <hi>Pappelwicke?</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Dou.</speaker>
+                                 <l>Yes, this ſullen Man.<stage place="margin">
+                                       <hi>Aeglamour</hi> enters, and <hi>Douce</hi> goes out.</stage>
+                                 </l>
+                                 <l>I cannot like him. I muſt take my leave</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Aeg.</speaker>
+                                 <l>What ſaid ſhee to you?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Kar.</speaker>
+                                 <l>Who? <hi>Aegl. Earine,</hi>
+                                 </l>
+                                 <l>I ſaw her talking with you, or her Ghoſt;</l>
+                                 <l>For ſhee indeed is drown'd in old <hi>Trents</hi> bottome.</l>
+                                 <l>Did ſhee not tell who would ha' pull'd her in?</l>
+                                 <l>And had her Maiden-head upon the place?</l>
+                                 <l>The rivers brim, the margin of the Flood?</l>
+                                 <l>No ground is holie enough, (you know my meaning)</l>
+                                 <l>Luſt is committed in Kings Palaces,</l>
+                                 <l>And yet their Majeſties not violated!</l>
+                                 <l>No words!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Car.</speaker>
+                                 <l>How ſad, and wild his thoughts are! gone?<stage place="margin">
+                                       <hi>Aeglamour</hi> goes out, but comes in againe.</stage>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Aeg.</speaker>
+                                 <l>But ſhee, as chaſte, as was her name, <hi>Earine,</hi>
+                                 </l>
+                                 <l>Dy'd undeflowr'd; and now her ſweet ſoule hovers,</l>
+                                 <l>Here, in the Aire, above us; and doth haſte</l>
+                                 <l>To get up to the <hi>Moone,</hi> and <hi>Mercury;</hi>
+                                 </l>
+                                 <l>And whiſper <hi>Venus</hi> in her <hi>Orbe,</hi> then ſpring</l>
+                                 <l>Up to old <hi>Saturne,</hi> and come downe by <hi>Mars,</hi>
+                                 </l>
+                                 <l>Conſulting <hi>Jupiter;</hi> and ſeate her ſelfe</l>
+                                 <l>Juſt in the midſt with <hi>Phoebus;</hi> tempring all</l>
+                                 <l>The jarring Spheeres, and giving to the World</l>
+                                 <l>Againe, his firſt and tunefull planetting!</l>
+                                 <l>O' what an age will here be of new concords!</l>
+                                 <l>Delightfull harmonie! to rock old Sages,</l>
+                                 <l>Twice infants, in the Cradle o'Speculation,<stage place="margin">He goes out againe, but returnes as ſoone as be<g ref="char:EOLhyphen"/>fore.</stage>
+                                 </l>
+                                 <l>And throw a ſilence upon all the creatures!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Kar.</speaker>
+                                 <l>A Cogitation of the higheſt rapture!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Aegl.</speaker>
+                                 <l>The loudeſt Seas, and moſt enraged Windes</l>
+                                 <l>Shall loſe their clangor; Tempeſt ſhall grow hoarſe;</l>
+                                 <l>Loud Thunder dumbe; and every ſpeece of ſtorme</l>
+                                 <l>Laid in the lap of liſtning Nature, huſht;</l>
+                                 <l>To heare the changed chime of this eighth ſpheere!</l>
+                                 <l>Take tent, and harken for it, looſe it not.<stage place="margin">
+                                       <hi>Aeglamour</hi> departs.</stage>
+                                 </l>
+                              </sp>
+                           </div>
+                           <div n="3" type="scene">
+                              <head>ACT III. SCENE III.</head>
+                              <head type="sub">
+                                 <hi>Clarion. Lionell. Karol.</hi>
+                              </head>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>O', here is <hi>Karol!</hi> was not that the ſad</l>
+                                 <l>Shep'erd, ſlip'd from him?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lio.</speaker>
+                                 <l>Yes, I gheſſe it was:</l>
+                                 <l>Who was that left you, <hi>Karol?</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Kar.</speaker>
+                                 <l>The laſt man!</l>
+                                 <l>Whom, wee ſhall never ſee himſelfe againe;</l>
+                                 <l>Or ours, I feare! He ſtarts away from hand, ſo,</l>
+                                 <l>And all the touches, or ſoft ſtroke of reaſon!</l>
+                                 <l>
+                                    <pb n="146" facs="tcp:12103:367"/>Yee can applie. No Colt is ſo unbroken!</l>
+                                 <l>Or hawke yet halfe ſo haggard, or unmann'd!</l>
+                                 <l>He takes all toies that his wild phantſy proffers,</l>
+                                 <l>And flies away with them. He now conceives</l>
+                                 <l>That my loſt Siſter, his <hi>Earine,</hi>
+                                 </l>
+                                 <l>Is lately turn'd a Sphere amid the ſeven:</l>
+                                 <l>And reades a Muſique-Lecture to the Planets!</l>
+                                 <l>And with this thought, hee's run to cal 'hem, Hearers<g ref="char:punc">▪</g>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Cla.</speaker>
+                                 <l>Alas, this is a ſtrayn'd, but innocent phant'ſie!</l>
+                                 <l>Ile follow him, and find him, if I can:</l>
+                                 <l>Meane time, goe you with <hi>Lionell,</hi> ſweet <hi>Karol,</hi>
+                                 </l>
+                                 <l>Hee will acquaint you with an accident</l>
+                                 <l>Which much deſires your preſence, on the place!</l>
+                              </sp>
+                           </div>
+                           <div n="4" type="scene">
+                              <head>ACT III. SCENE IV.</head>
+                              <head type="sub">
+                                 <hi>Karol. Lionell.</hi>
+                              </head>
+                              <sp>
+                                 <speaker>Kar.</speaker>
+                                 <l>What is it, <hi>Lionell,</hi> wherein I may ſerve you?</l>
+                                 <l>Why doe you ſo ſurvey, and circumſcribe mee?</l>
+                                 <l>As if you ſtuck one Eye into my breſt,</l>
+                                 <l>And with the other took my whole dimenſions?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lio.</speaker>
+                                 <l>I wiſh you had a windo' i' your boſome</l>
+                                 <l>Or 'i your back: I might look thorough you,</l>
+                                 <l>And ſee your in-parts, <hi>Karol,</hi> liver, heart;</l>
+                                 <l>For there the ſeat of <hi>Love</hi> is. Whence the Boy</l>
+                                 <l>(The winged Archer) hath ſhott home a ſhaft</l>
+                                 <l>Into my ſiſters breſt, the innocent <hi>Amie,</hi>
+                                 </l>
+                                 <l>Who now cries out, upon her bed, on <hi>Karol,</hi>
+                                 </l>
+                                 <l>Sweet ſinging <hi>Karol!</hi> the delicious <hi>Karol!</hi>
+                                 </l>
+                                 <l>That kiſt her like a <hi>Cupid!</hi> In your eyes,</l>
+                                 <l>Shee ſaies, his ſtand is! and between your lipp's</l>
+                                 <l>He runs forth his diviſions, to her eares,</l>
+                                 <l>But will not bide there, leſſe your ſelfe do bring him</l>
+                                 <l>Goe with me <hi>Karol,</hi> and beſtow a viſit</l>
+                                 <l>In charitie, upon the afflicted Maid,</l>
+                                 <l>Who pineth with the languor of your love.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Whither intend you? <hi>Amy</hi> is recover'd,</l>
+                                 <l>
+                                    <stage place="margin">To them <hi>Maud</hi> and <hi>Douce,</hi> but <hi>Maud</hi> appea<g ref="char:EOLhyphen"/>ring like <hi>Ma<g ref="char:EOLhyphen"/>rian.</hi>
+                                    </stage> Feeles no ſuch griefe as ſhee complain'd of, lately:</l>
+                                 <l>This Maiden hath been with her from her Mother</l>
+                                 <l>
+                                    <hi>Maudlin,</hi> the cunning Woman, who hath ſent her</l>
+                                 <l>Herbes for her head, and Simples of that nature,</l>
+                                 <l>Have wrought upon her a miraculous Cure;</l>
+                                 <l>Setled her braine, to all our wiſh, and wonder!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lio.</speaker>
+                                 <l>So inſtantly? you know, I now but left her.</l>
+                                 <l>Poſſeſs'd with ſuch a fit, almoſt to 'a phrenſie;</l>
+                                 <l>Your ſelfe too fear'd her, <hi>Marian;</hi> and did urge</l>
+                                 <l>My haſte, to ſeeke out <hi>Karol,</hi> and to bring him.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>I did ſo. But the skill of that wiſe woeman</l>
+                                 <l>And her great charitie of doeing good</l>
+                                 <l>
+                                    <pb n="155" facs="tcp:12103:367"/>Hath by the readie hand of this deft laſſe</l>
+                                 <l>Her daughter, wrought effects, beyond beleife,</l>
+                                 <l>And to aſtoniſhment; wee can but thanke</l>
+                                 <l>And praiſe, and be amazed, while wee tell it.<stage place="margin">They go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap> out.</stage>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lio.</speaker>
+                                 <l>'Tis ſtrange, that any art ſhould ſo helpe nature</l>
+                                 <l>In her extremes.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Kar.</speaker>
+                                 <l>Then, it appeares moſt reall</l>
+                                 <l>When th'other is deficient.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Wherefore,<stage place="margin">Enter <hi>Robin<g ref="char:EOLhyphen"/>hood</hi>
+                                    </stage> ſtay you</l>
+                                 <l>Diſcourſing here, and haſte not with your ſuccours</l>
+                                 <l>To poore afflicted <hi>Amie,</hi> that ſo needes them?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lio.</speaker>
+                                 <l>Shee is recover'd well, your <hi>Marian</hi> told us</l>
+                                 <l>But now here: See, ſhee is return'd t' affirme it!<stage place="margin">Enter <hi>Maudl:</hi> like <hi>Marian. Maudl:</hi> eſpy<g ref="char:EOLhyphen"/>ing <hi>Robin-hood</hi> would run out, but he ſtaies her by the Gir<g ref="char:EOLhyphen"/>dle, and runs in with her. He returnes with the Gir<g ref="char:EOLhyphen"/>dle broken, and ſhee in her owne ſhape.</stage>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>My <hi>Marian?</hi>
+                                 </l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>
+                                    <hi>Robin-hood?</hi> Is hee here?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Stay!</l>
+                                 <l>What was't you ha' told my friend?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mar.</speaker>
+                                 <l>Helpe, murder, helpe.</l>
+                                 <l>You will not rob me Out-law? Theife, reſtore</l>
+                                 <l>My belt that yee have broken!</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Yes, come neere,</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>Not i' your gripe.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Was this the charmed circle?</l>
+                                 <l>The Copy that ſo couzen'd, and deceiv'd us?</l>
+                                 <l>I'le carry hence the trophie of your ſpoiles.</l>
+                                 <l>My men ſhall hunt you too upon the ſtart,</l>
+                                 <l>And courſe you ſoundly.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>I ſhall make 'hem ſport</l>
+                                 <l>And ſend ſome home, without their leggs, or armes.</l>
+                                 <l>I'le teach 'hem to climbe Stiles, leape Ditches, Ponds,</l>
+                                 <l>And lie i' the Waters, if they follow mee.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Rob.</speaker>
+                                 <l>Out murmuring Hagge.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>I muſt uſe all my powers,</l>
+                                 <l>Lay all my witts to piecing of this loſſe.</l>
+                                 <l>Things run unluckily, Where's my <hi>Puck-hairy?</hi>
+                                 </l>
+                              </sp>
+                           </div>
+                           <div n="5" type="scene">
+                              <head>ACT III. SCENE V.</head>
+                              <head type="sub">
+                                 <hi>Maud. Puck.</hi>
+                              </head>
+                              <sp>
+                                 <l>Hath he forſooke mee?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Puc.</speaker>
+                                 <l>At your beck, Madame.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>O <hi>Puck,</hi> my Goblin! I have loſt my belt,</l>
+                                 <l>The ſtrong theife, <hi>Robin</hi> Out-law, forc'd it from mee.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Puck.</speaker>
+                                 <l>They are other Cloudes and blacker threat you, Dame;</l>
+                                 <l>You muſt be wary, and pull in your ſailes,</l>
+                                 <l>And yeeld unto the wether of the tempeſt.</l>
+                                 <l>You thinke your power's infinite as your malice;</l>
+                                 <l>And would do all your anger prompts you to:</l>
+                                 <l>But you muſt wait occaſions, and obey them:</l>
+                                 <l>Saile in an egg-ſhell, make a ſtraw your maſt,</l>
+                                 <l>A Cobweb all your Cloth, and paſſe, unſeen,</l>
+                                 <l>Till you have ſcap'd the rockes that are about you.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>What rock's about mee?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Puc.</speaker>
+                                 <l>I do love, Madam,</l>
+                                 <l>To ſhew you all your dangers, when you are paſt 'hem.</l>
+                                 <l>Come, follow mee, I'll once more be your pilot,</l>
+                                 <l>And you ſhall thanke mee.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>Lucky, my lov'd Goblin!</l>
+                                 <l>Where are you gaang, now?</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Lor.</speaker>
+                                 <l>Unto my tree,<stage place="margin">
+                                       <hi>Lorel</hi> meetes her.</stage>
+                                 </l>
+                                 <l>To ſee my Maiſtres.</l>
+                              </sp>
+                              <sp>
+                                 <speaker>Mau.</speaker>
+                                 <l>Gang thy gait, and try</l>
+                                 <l>Thy turnes, with better luck, or hang thy ſel'.</l>
+                              </sp>
+                           </div>
+                        </div>
+                        <trailer>The End.</trailer>
+                     </div>
+                 

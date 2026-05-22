@@ -1,0 +1,76 @@
+topic,count,top_words,topic_summary
+0,2938,"loue, wife, pray, lady, house, master, gentleman, woman, sweet, husband",Domestic and marital relationships
+1,839,"wife, gentlemen, gentleman, woman, pray, time, lady, faith, old, little",Social roles and faith in daily life
+2,816,"great, death, minde, gods, earth, loe, place, world, things, light",Cosmology and Afterlife Concepts
+3,510,"venus, cupid, loue, siluer, gold, great, hand, gods, white, earth",Mythology and Precious Materials
+4,508,"king, lord, yorke, france, duke, henry, edward, england, richard, lords",Medieval English and French Nobility
+5,297,"brutus, rome, pompey, great, martius, men, antony, people, world, gods",Roman political and mythological figures
+6,282,"king, lord, mortimer, gaueston, edward, france, england, lords, queene, maiestie",Medieval monarchy and nobility
+7,239,"loue, loues, siluia, faire, protheus, eyes, heart, louer, siluio, louers",Expressions of Praise and Affection
+8,222,"dutchesse, duke, signiour, borgia, court, love, madam, prince, grace, lord",Nobility and Aristocratic Court Life
+9,176,"london, maior, worthy, honor, yeare, time, honour, day, londons, city",City governance and civic honor
+10,175,"death, dead, life, soule, teares, die, heart, griefe, loue, liue","Life, Death, and Emotional Experience"
+11,165,"payne, god, gyue, thynke, parte, ryght, eueryman, heuen, wherfore, muche",Medieval religious and moral concepts
+12,163,"tamburlaine, baiazet, zenocrate, mahomet, tamburlain, armes, theridamas, persea, crowne, turkish",Historical figures and warfare in Ottoman context
+13,163,"duke, lord, brother, florence, death, sciarrha, dead, treason, life, amidea",Noble Titles and Family Relations
+14,149,"greece, saturne, hercules, sonne, king, mother, iason, death, sonnes, orestes",Mythology and Legendary Figures
+15,140,"senate, caesar, consul, rome, catiline, hem, seianvs, state, cato, st",Roman political institutions and figures
+16,138,"kings, feare, power, state, princes, lawes, men, ill, nature, rage",Political authority and governance
+17,136,"ys, yt, wyth, thyng, shuld, wold, wyse, reason, theym, maner",Middle English language and reasoning terms
+18,135,"loue, euer, life, heart, thing, heare, death, way, said, men",Human emotions and existential themes
+19,135,"printed, play, stage, acted, author, london, read, written, comedy, censure",Theater and Drama Literature
+20,134,"lorde, lawe, soch, god, holy, christ, lawes, whan, gospell, saynt",Religious texts and Christian theology
+21,125,"sleepe, bed, night, dreame, rest, day, awake, wake, light, dreames",Sleep and Dreaming Processes
+22,124,"hector, achilles, troylus, aiax, troy, diomed, patroclus, paris, hectors, troyan",Trojan War Characters and Mythology
+23,121,"wyth, dothe, doothe, agayne, lyght, styll, hande, syght, myght, seas",Medieval language and natural elements
+24,118,"est, non, que, sed, ego, si, hoc, qui, te, ad",Latin function words
+25,101,"melibea, calisto, celestina, parmeno, sempronio, lucrecia, old, elicia, house, paine",Characters and settings in a literary work
+26,101,"duke, clarinda, loue, dukes, lord, madame, belieue, court, true, father",Nobility and Courtly Relations
+27,97,"antonio, berinthia, trincalo, flauia, sebastiano, valasco, pandolfo, sister, armellina, love",Personal names and familial relationships
+28,85,"marius, scilla, rome, pompey, frends, consull, scillas, caesar, cynna, vvhat",Ancient Roman political and military figures
+29,80,"bacon, margret, lacie, peggie, frier, fryer, lacy, raphe, lord, edward",Personal names and titles
+30,80,"ferdinand, pembrooke, burbon, nauar, fraunce, philip, katharine, knight, rodorick, bellamira",European nobility and royalty
+31,79,"amyntas, phillis, noe, soe, stil, sweete, fro, whoe, shal, bony",Early Modern English Poetry and Names
+32,78,"god, iacob, temple, lord, philologus, lorde, saviour, prophet, doo, gods",Religious figures and worship practices
+33,73,"admirall, chabot, chancellor, king, iudges, lord, kings, condemn, honour, life",Medieval Nobility and Authority
+34,66,"caesar, cleopatra, antony, state, death, st, caesars, euer, blood, dead",Roman political figures and power struggles
+35,63,"numps, fayre, numpes, bartholmew, buy, bread, fine, ginger, peares, hem",Medieval Market Goods and Trade
+36,63,"roderigo, cimena, love, sancho, cid, honour, madam, king, heart, duty",Medieval Romance and Chivalry
+37,61,"troy, greekes, achilles, hectors, pyrrhus, troyans, agayne, hector, bloud, alas",Trojan War and Greek Mythology
+38,60,"hamlet, lord, horatio, laertes, mother, denmarke, king, father, leartes, heauen",Shakespearean Drama Characters and Relationships
+39,60,"carthage, scipio, syphax, sophonisba, massinissa, hannibal, rome, massanissa, asdruball, gods",Ancient Punic and Roman Historical Figures and Events
+40,60,"rome, titus, andronicus, lucius, emperour, marcus, lauinia, gothes, sonnes, saturnine",Roman historical figures and imperial themes
+41,57,"heere, hic, lord, wit, pray, god, hazard, true, heare, men",Religious devotion and moral conduct
+42,56,"antonius, cleopatra, anthony, queen, plutarch, dio, love, canidius, rome, egypt",Roman-Egyptian Historical Figures and Relationships
+43,52,"wyfe, daye, godes, father, praye, therfore, wherfore, waye, tyll, woulde",Medieval Religious and Familial Language
+44,48,"siluia, cloris, thirsis, palaemon, ah, techne, euer, loue, heart, bene",Classical Pastoral Poetry and Love Themes
+45,47,"clay, squire, awdrey, tub, turfe, puppy, hun, iohn, marten, chanon",Medieval social roles and everyday objects
+46,47,"anthonio, dulipo, philogano, camillo, venice, ducats, sicilia, portia, paper, futelli",Venetian trade and commerce
+47,47,"shake, stage, workes, liue, booke, cankring, parlying, hake, prodegie, stratford",Theatrical performance and literary works
+48,46,"cromwell, bedford, lord, earle, gardiner, lambeth, hodge, hart, mantua, thomas",British nobility and historical figures
+49,43,"dauids, israel, absalon, dauid, vrias, ioab, absolon, ammon, king, cusay",Biblical figures and ancient Israel royalty
+50,41,"romeo, tybalt, mercutio, iuliet, night, mountague, dead, romeos, paris, tibalt",Shakespearean characters and events from Romeo and Juliet
+51,40,"andrea, hieronimo, horatio, balthazar, sforza, prince, lord, sonne, lorenzo, slaine",Renaissance nobility and aristocratic figures
+52,40,"writings, reade, bene, imitator, frauds, abu, maimed, quitted, draw, capacities",Literary Authorship and Textual Integrity
+53,40,"love, daphnis, nerina, hylas, cariclea, caricles, dorinda, theagines, cnemon, gods",Mythological and Romantic Characters
+54,39,"greeke, stage, forth, paccuuius, marlowes, euripides, lily, gropes, cordoua, sockes",Classical and Early Modern Theater References
+56,38,"kate, ferando, polidor, bianca, lucentio, gremio, tranio, katherine, sander, petruchio",Characters in a Shakespearean Comedy
+55,38,"poets, dry, lines, poet, line, auon, torned, nuncius, corp, antiquated",Poetry and poetic language
+58,38,"pamphilus, dauus, chremes, simo, doo, glycerie, marriage, matter, carinus, childe",Characters and Marriage in Classical Drama
+57,38,"ich, neele, diccon, gammer, hodge, cham, chat, gogs, chil, hodg",Medieval English dialects and linguistic variation
+61,36,"cyrus, abradates, panthea, gobrias, antiochus, libanio, campe, babylon, lord, dinon",Ancient historical figures and rulers
+59,36,"playes, buy, obtai, leauened, weighd, dailie, stationer, priuiledges, peales, orth",Commerce and Trade Practices
+60,36,"trifles, liuing, booke, exequutor, blount, vvrit, heereto, shakespeares, iaggard, patrones",Early modern literary and legal documents
+62,35,"hir, quod, fraunces, dame, mistresse, mistres, elynor, pergo, seruaunt, chamber",Medieval Household and Servitude Terms
+63,35,"damon, pithias, dionisius, doo, kinge, carisophus, friendship, die, frindship, courte",Classical Friendship and Loyalty Narratives
+64,35,"ring, gaue, finger, begd, away, clarke, woman, wife, iudges, lord",Marriage and Social Status
+65,35,"faukenbridge, skinke, hermit, richard, redcap, fau, prince, porter, iohn, la",Medieval or Renaissance Drama Characters
+66,34,"arcadius, lisimachus, demetrius, epire, polidora, seleucus, macarius, queene, love, madam",Historical figures and royal relationships
+67,34,"mordred, warres, arthur, arthurs, mordreds, fates, sire, brytaine, brytaines, gorlois",Arthurian legend and medieval warfare
+68,33,"aeneas, dido, iarbus, didos, achates, anna, carthage, ascanius, ships, troy",Characters and events from the Aeneid epic poem
+69,32,"apollos, apollo, siren, hedone, muses, shrouing, amphibius, play, schoole, whoope",Classical Mythology and Performing Arts
+70,32,"wallace, bruce, selby, clifford, mentith, grimsby, graham, scotch, scotland, bloud",Scottish historical figures and places
+71,32,"god, synne, beleue, mercy, repent, sinne, repentance, lorde, godly, wicked",Religious morality and repentance
+72,31,"robin, george, frier, greene, earle, hood, pinner, king, wakefield, lluellen",Personal names and surnames
+73,31,"evadne, pamphilus, techmessa, tyndarus, um, cleora, philoclea, mors, love, tutour",Classical Literature and Mythological Characters
+74,31,"pandora, stesias, iphicles, melos, learchus, gunophilus, pandoraes, loue, fayre, vvhat",Mythological Figures and Names

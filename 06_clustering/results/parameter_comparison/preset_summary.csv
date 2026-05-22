@@ -1,0 +1,4 @@
+preset,total_points,clusters_excl_-1,outliers,outliers_pct,largest_cluster_size
+baseline,27104,75,15616,57.62,15616
+tuned_less_outliers,27104,4,111,0.41,26790
+tuned_stricter,27104,2,154,0.57,26833
