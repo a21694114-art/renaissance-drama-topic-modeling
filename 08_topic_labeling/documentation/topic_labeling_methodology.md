@@ -1,5 +1,3 @@
-
-
 # Topic Interpretation and Labeling Methodology
 
 ## LLM-Assisted Topic Labeling
@@ -7,6 +5,33 @@
 To facilitate interpretation of the discovered topics, descriptive labels were generated for each topic based on the extracted keyword sets. Because keyword lists alone can be difficult to interpret—particularly in large topic models—an automated labeling procedure was implemented to produce concise semantic descriptions of each topic.
 
 Topic labels were generated using a language model through the OpenAI Responses API. For each topic, the model received the list of extracted keywords and was instructed to infer the underlying semantic domain represented by those terms. The prompt explicitly required the model to produce short descriptive labels rather than summaries, and to rely only on information directly supported by the keywords.
+
+The following prompt template was used during topic labeling:
+
+```python
+PROMPT_TEMPLATE = """
+You are assisting a researcher interpreting topic modeling results.
+
+You will receive a list of keywords extracted from a statistical topic.
+
+Your task is to propose a short descriptive label identifying the semantic domain represented by these keywords.
+
+Guidelines:
+- Do NOT repeat the keywords.
+- Identify the main semantic domain suggested by the keywords.
+- Prefer concise domain labels rather than abstract summaries.
+- Use only information directly supported by the keywords.
+- Do NOT add historical period labels, geographic labels, or cultural descriptors unless they explicitly appear in the keywords.
+- Do NOT refer to specific authors.
+- Avoid vague labels such as "human experience", "themes", "concepts", or "social roles" when a more concrete domain label is possible.
+- Keep the label concise (max {max_words} words).
+- Return only the label.
+
+Keywords:
+{keywords}
+
+Topic label:"""
+```
 
 To reduce interpretive bias, the prompt prohibited the introduction of historical period labels, geographic descriptors, or author references unless such information was explicitly present in the keyword list. This constraint ensures that the generated labels reflect the statistical structure of the topic model rather than external scholarly assumptions about the corpus.
 
