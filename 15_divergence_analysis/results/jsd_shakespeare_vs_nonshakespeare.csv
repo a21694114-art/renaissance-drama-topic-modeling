@@ -1,4 +1,0 @@
-genre,n_plays_shakespeare,n_chunks_shakespeare,n_plays_nonshakespeare,n_chunks_nonshakespeare,jsd_bits,ci_lo_95,ci_hi_95
-Comedy,19,276,147,2265,0.4089,0.3296,0.6126
-Tragedy,18,606,107,2399,0.5622,0.5255,0.704
-History,14,378,22,357,0.4022,0.1925,0.6167
