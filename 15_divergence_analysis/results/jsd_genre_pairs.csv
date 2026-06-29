@@ -1,0 +1,4 @@
+comparison,group_P,n_chunks_P,group_Q,n_chunks_Q,jsd_bits,ci_lo_95,ci_hi_95
+Comedy vs Tragedy,Comedy,4042,Tragedy,3456,0.5865,0.5547,0.6421
+Comedy vs History,Comedy,4042,History,940,0.5952,0.5349,0.6948
+Tragedy vs History,Tragedy,3456,History,940,0.5921,0.544,0.6963

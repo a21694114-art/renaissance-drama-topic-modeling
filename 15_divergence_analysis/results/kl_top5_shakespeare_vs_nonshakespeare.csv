@@ -1,0 +1,16 @@
+genre,rank,topic_id,topic_label,shakespeare_pct,nonshakespeare_pct,jsd_contrib
+Comedy,1,0,Domestic and marital relationships,5.0,49.891,0.153668
+Comedy,2,7,Expressions of Praise and Affection,17.895,1.502,0.058863
+Comedy,3,26,Nobility and Courtly Relations,5.79,0.546,0.018258
+Comedy,4,1,Social roles and faith in daily life,31.842,16.74,0.017217
+Comedy,5,56,Characters in a Shakespearean Comedy,5.0,0.519,0.015185
+Tragedy,1,2,Cosmology and Afterlife Concepts,1.409,23.343,0.08477
+Tragedy,2,22,Trojan War Characters and Mythology,14.085,0.364,0.05998
+Tragedy,3,38,Shakespearean Drama Characters and Relationships,8.31,0.0,0.04155
+Tragedy,4,40,Roman historical figures and imperial themes,8.169,0.0,0.040845
+Tragedy,5,50,Shakespearean characters and events from Romeo and Juliet,5.775,0.0,0.028873
+History,1,4,Medieval English and French Nobility,64.835,13.814,0.129593
+History,2,6,Medieval monarchy and nobility,8.352,31.134,0.050471
+History,3,49,Biblical figures and ancient Israel royalty,0.0,8.454,0.042268
+History,4,48,British nobility and historical figures,0.22,9.278,0.039953
+History,5,70,Scottish historical figures and places,0.0,6.598,0.032989
