@@ -20,6 +20,7 @@ Outputs:
 """
 
 import os
+import re
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -37,17 +38,41 @@ SHAKESPEARE   = "Shakespeare"
 COLOR_SHA     = "#C0392B"    # red highlight for Shakespeare
 COLOR_OTHER   = "#5B8CB7"    # blue for all other authors
 
-# normalise the noisy genre field down to the three main genres
-GENRE_MAP = {
-    "comedy": "Comedy",   "Comedy": "Comedy",
-    "tragedy": "Tragedy", "Tragedy": "Tragedy",
-    "history": "History", "History": "History",
-}
+# ── priority-based genre normalisation (mirrors csv_maker.py / compute_divergence.py) ──
+# Handles compound labels like "tragedy;history" → "Tragedy", so plays with
+# compound genre labels are not silently dropped.
+_PRIORITY = ["tragedy", "tragicomedy", "comedy", "history"]
+
+def _split_genre_tokens(raw):
+    if raw is None:
+        return []
+    s = str(raw).strip()
+    if not s or s.lower() in {"nan", "none", "null", "none listed", "not in britdrama"}:
+        return []
+    s = re.sub(r"[,/]+", ";", s)
+    parts = [p.strip().lower() for p in s.split(";")]
+    parts = [p for p in parts if p]
+    normed = []
+    for p in parts:
+        p = p.replace("tragic-comedy", "tragicomedy")
+        p = p.replace("tragic comedy", "tragicomedy")
+        normed.append(p)
+    return normed
+
+def genre_main_priority(raw):
+    tokens = _split_genre_tokens(raw)
+    if not tokens:
+        return "Other"
+    for key in _PRIORITY:
+        for t in tokens:
+            if key in t:
+                return key.capitalize()
+    return "Other"
 
 # ── load ───────────────────────────────────────────────────────────────────
 master = pd.read_csv(MASTER)
-master["genre_clean"] = master["genre_brit_filter"].map(GENRE_MAP)
-master = master[master["genre_clean"].notna() & master["author.1"].notna()].copy()
+master["genre_clean"] = master["genre_brit_filter"].apply(genre_main_priority)
+master = master[master["genre_clean"].isin(GENRES) & master["author.1"].notna()].copy()
 
 
 def surname(author):
