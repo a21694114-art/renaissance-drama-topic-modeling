@@ -1,2 +1,68 @@
-# renaissance-drama-topic-modeling
-BERTopic-based topic modeling of Renaissance drama using EEBO-TCP corpus
+# Renaissance Drama Topic Modeling
+
+Neural topic modeling of early modern English drama. The project models dramatic genre (comedy, tragedy, history) as a **thematic distribution** rather than a set of essential features: genres emerge as differential distributions over shared thematic material, and Shakespeare's distinctiveness appears as a redistribution of common materials, not a categorical separation from his contemporaries.
+
+**Associated paper:** Dain Lee & Sujin Kang, "Modelling Genre as Thematic Distribution: A Neural Topic Modeling Analysis of Early Modern Plays" (World Shakespeare Congress 2026, Seminar 14, Verona).
+
+## Corpus and method
+
+- **Corpus:** 598 early modern plays from **EEBO-TCP**, with genre and attribution metadata from **DEEP** (Database of Early English Playbooks).  
+- **Segmentation:** each play is split into \~2,000-character segments ("chunks"); 27,104 segments in total.  
+- **Pipeline (BERTopic):** GTE-large sentence embeddings → UMAP dimensionality reduction → HDBSCAN density clustering → class-based TF-IDF topic representation, followed by human-verified topic labels.  
+- **Divergence measure:** Jensen–Shannon divergence (JSD, in bits) between topic-count distributions.
+
+### Conventions used throughout
+
+- **Assigned segments.** HDBSCAN is a hard density clusterer: segments in low-density regions remain unassigned (topic `-1`, 57.6% corpus-wide). This is a property of the method, not a failure mode; analyses use topic-assigned segments unless stated otherwise.  
+- **Genre normalisation.** Compound DEEP labels (e.g. `tragedy;history`) are resolved by a fixed priority rule (tragedy \> tragicomedy \> comedy \> history), so plays with compound labels are kept rather than dropped.  
+- **Attribution scopes.** Some analyses use every segment whose attribution *contains* Shakespeare (collaborations included); others use sole-attribution records only (`Shakespeare, William`). Where both appear, the scope is stated.
+
+## Repository structure
+
+The numbered folders follow the pipeline order. Each contains `code/` and `results/` (large intermediate files are included as samples where full outputs are impractical).
+
+| Folder | Stage |
+| :---- | :---- |
+| `01_corpus_construction` | Build the play corpus from EEBO-TCP XML; collect metadata |
+| `02_collection_separation` | Separate multi-play collections into individual plays |
+| `03_extraction` | Extract playtext from XML |
+| `04_chunking` | Split plays into \~2,000-character segments |
+| `05_embedding` | GTE-large segment embeddings |
+| `06_clustering` | UMAP \+ HDBSCAN parameter testing and final clustering |
+| `07_topic_modeling` | BERTopic topic assignments, keywords, representative documents |
+| `08_topic_labeling` | Human-verified topic labels |
+| `09_master_table_construction` | Unified chunk-level master table (primary analytical dataset) |
+| `10_interactive_visualization` | Interactive corpus map |
+| `11_genre_visualization` | Topic distributions by genre |
+| `12_comparative_analysis` | Shakespeare vs contemporaries, within genre |
+| `13_subset_visualization` | Genre-subset views |
+| `14_comparative_visualization` | Comparative figures |
+| `15_divergence_analysis` | JSD between genres, authorship divergence, per-author divergence |
+| `16_wsc_seminar_handouts` | Reproduces every figure and number on the WSC Seminar 14 supplementary handouts |
+
+## Reproducing the headline numbers
+
+The two key entry points:
+
+\# Per-author divergence within each genre (chart \+ CSV)
+
+python3 15\_divergence\_analysis/code/per\_author\_divergence.py
+
+\# Every statistic and figure on the four WSC seminar handouts,
+
+\# each printed next to the value the handout shows
+
+python3 16\_wsc\_seminar\_handouts/code/reproduce\_handouts.py
+
+Both scripts read `09_master_table_construction/results/chunk_level_master_table.csv` (one row per topic-assigned segment) and, for outlier statistics, `07_topic_modeling/results/chunk_topics_filtered 2.csv` (one row per segment, outliers included).
+
+**Requirements:** Python 3.9+, `pandas`, `numpy`, `matplotlib`.
+
+## Data sources
+
+- [EEBO-TCP](https://textcreationpartnership.org/) — Early English Books Online, Text Creation Partnership transcriptions.  
+- [DEEP](http://deep.sas.upenn.edu/) — Database of Early English Playbooks (genre and attribution metadata).
+
+## Contact
+
+Dain Lee — [a21694114@gmail.com](mailto:a21694114@gmail.com)  
