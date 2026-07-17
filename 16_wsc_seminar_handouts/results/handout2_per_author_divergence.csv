@@ -1,0 +1,19 @@
+genre,author,label,n_works,n_chunks,jsd_bits
+Comedy,"Day, John",Day,3,113,0.6412
+Comedy,"Lyly, John",Lyly,8,158,0.5709
+Comedy,"Shakespeare, William",Shakespeare,11,380,0.4986
+Comedy,"Middleton, Thomas",Middleton,8,236,0.4333
+Comedy,"Shirley, James",Shirley,13,330,0.3486
+Comedy,"Chapman, George",Chapman,3,72,0.3482
+Comedy,"Dekker, Thomas",Dekker,5,92,0.3125
+Comedy,"Jonson, Ben",Jonson,13,618,0.2202
+History,"Heywood, Thomas",Heywood,4,85,0.5128
+History,"Shakespeare, William",Shakespeare,4,189,0.1786
+Tragedy,"Marlowe, Christopher",Marlowe,4,113,0.8538
+Tragedy,"Goffe, Thomas",Goffe,3,82,0.7748
+Tragedy,"Shirley, James",Shirley,3,73,0.7483
+Tragedy,"Heywood, JasperSeneca, Lucius Annaeus",Heywood,3,198,0.6512
+Tragedy,"Alexander, William",Alexander,4,414,0.6242
+Tragedy,"Shakespeare, William",Shakespeare,10,613,0.5889
+Tragedy,"Seneca, Lucius AnnaeusStudley, John",Seneca,3,169,0.55
+Tragedy,"Chapman, George",Chapman,3,81,0.4977
